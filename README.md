@@ -5,8 +5,9 @@
 <h1 align='center'>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>I'm Carlos André Lima de Souza 👨‍💻</p>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </h1>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <h4 align='center'>
 Developer, IT manager, teacher and entrepreneur in Minas Gerais, <img src="https://acegif.com/wp-content/gif/brazilian-flag-28.gif" width="45px">.
 </h4>
