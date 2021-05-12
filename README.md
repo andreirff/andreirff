@@ -30,9 +30,7 @@ Founder of the customer-focused startup - ZapTI.
   </a>&nbsp;&nbsp;
 </p>
 
-[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github)](https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github)
-[![Linkedin Badge](https://img.shields.io/badge/-carlosandrelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandrelima/)](https://www.linkedin.com/in/carlosandrelima/)
-[![Linkedin Badge](https://img.shields.io/badge/-carlosandrelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandrelima/)](https://www.linkedin.com/in/carlosandrelima/)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -41,6 +39,8 @@ Founder of the customer-focused startup - ZapTI.
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
+## 🚀💻 Technologies & Tools
 
 <details>
   <summary>📃 Resume</summary>
