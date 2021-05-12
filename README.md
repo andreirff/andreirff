@@ -16,9 +16,8 @@ I learn a lot from the open source community and knowledge sharing.
 I currently work at IGH.
 Founder of the customer-focused startup - ZapTI.
 </p>
+                
 <!-- CONTATOS -->
-## Menu
-- [📱 Contact](#-contact-)
 <p align='center'>
   <a href=""https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -42,4 +41,4 @@ Founder of the customer-focused startup - ZapTI.
 <details>
   <summary>📃 Resume</summary>
   
-  ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
+
