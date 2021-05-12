@@ -68,15 +68,15 @@ My experience of over 20 years with IT.
 -->
 
 <!-- SKILLS & TOOLS -->
-<h3 align='center'>
+<h4 align='center'>
    🚀💻 Skill's & Tool's<br/><br/>
 
 <details>
   <summary>📃 Resume</summary>
   
-[🤜🤛 Group](#-group-)
-[👨 Social](#-social-)
-[👩‍💻 Languages](#-languages-)
+- [🤜🤛 Group](#-group-)
+- [👨 Social](#-social-)
+- [👩‍💻 Languages](#-languages-)
 - [👩‍💻 IDE](#-ide-)
 - [⚡ Database](#-database-)
 - [📱 Mobile Frameworks](#-mobile-frameworks-)
