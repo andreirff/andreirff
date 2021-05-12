@@ -23,7 +23,10 @@ My experience of over 20 years with IT.
 <br/></br>Founder of the customer-focused startup - ZapTI. 
 </p>
 </h5><br/><br/><br/><br/><br/>
-                
+
+<h4 align='center'>
+  📱 Contact<br/><br/>
+</h4>
 <!-- CONTACTS -->
 <p align='center'>
   <!-- WHATSAPP -->
