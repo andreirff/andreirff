@@ -7,11 +7,11 @@ Developer, IT manager, teacher and entrepreneur in Minas Gerais, <img src="https
 </p>
 <hr>
 
-<h2 align='center'>
+<h4 align='center'>
 My experience of over 20 years with IT has sparked possible ideas and projects through software development.
 <br>I also have a degree in Art Education with a degree in Music.
 <br>Lover of the STEAM methodology and the sound of an SG guitar.
-</h2>
+</h4>
 
 <p align=center'>
 I learn a lot from the open source community and knowledge sharing.
