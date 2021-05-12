@@ -47,7 +47,7 @@ My experience of over 20 years with IT.
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-  <a href="#"><img src="(https://github-readme-stats.vercel.app/api/wakatime?username=andreirff" width="350"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </p>
 
 
