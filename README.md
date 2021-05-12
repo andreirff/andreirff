@@ -7,24 +7,12 @@ Developer, IT manager, teacher and entrepreneur from Minas Gerais, <img src="htt
 </p>
 
 <p align='center'>
-My experience of over 20 years with IT has sparked possible ideas and projects through software development.<br>
-<br>I also have a degree in Art Education with a degree in Music.<br>
-<br>Lover of the STEAM methodology and the sound of an SG guitar.<br>
+My experience of over 20 years with IT has sparked possible ideas and projects through software development.
+<br>I also have a degree in Art Education with a degree in Music.
+<br>Lover of the STEAM methodology and the sound of an SG guitar.
 </p>
 
 <p align=center'>
-I learn a lot from the open source community and knowledge sharing.<br>
+I learn a lot from the open source community and knowledge sharing.
 I currently work at IGH. Founder of the customer-focused startup - ZapTI.
-</p>
-
-<p align='center'>
-  <!--<a href=""https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/carlosandrelima/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/zapti">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
 </p>
