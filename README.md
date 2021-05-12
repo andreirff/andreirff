@@ -26,7 +26,7 @@ My experience of over 20 years with IT.
 </h5>
 
 <!-- CONTACTS -->
-<h4 align='center'>📱 Contact
+<h4 align='center'>📱 Contact</h4>
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
