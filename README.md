@@ -9,8 +9,8 @@
 <!-- GIF-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<h3 align='center'>
-Developer, IT manager, teacher and entrepreneur in <img src="https://acegif.com/wp-content/gif/brazilian-flag-28.gif" width="45px">
+<h3 align='center'>Developer, IT manager, teacher and entrepreneur.</br>
+<img src="https://acegif.com/wp-content/gif/brazilian-flag-28.gif" width="45px">
 </h3>
 
 <h5 align='center'>
