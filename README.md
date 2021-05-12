@@ -6,11 +6,13 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>I'm Carlos André Lima de Souza 👨‍💻</p>
 </h1>
+
+<!-- GIF-->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<h4 align='center'>
+<h3 align='center'>
 Developer, IT manager, teacher and entrepreneur in Minas Gerais, <img src="https://acegif.com/wp-content/gif/brazilian-flag-28.gif" width="45px">.
-</h4>
+</h3>
 <h5 align='center'>
 My experience of over 20 years with IT.
 <br/>I also have a degree in Art Education with a degree in Music.
@@ -21,7 +23,6 @@ My experience of over 20 years with IT.
 <br/></br>Founder of the customer-focused startup - ZapTI. 
 </p>
 </h5>
-
                 
 <!-- CONTACTS -->
 <p align='center'>
@@ -40,10 +41,6 @@ My experience of over 20 years with IT.
   <!-- INSTAGRAM -->
     <a href="https://bit.ly/zaptiinstagram">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <!-- FACEBOOK -->
-  <a href="https://bit.ly/zaptifacebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
