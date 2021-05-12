@@ -1,4 +1,7 @@
+<!-- INITIAL -->
 ###### Initial
+
+<!-- PRESENTATION -->
 <h1 align='center'>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>I'm Carlos André Lima de Souza 👨‍💻</p>
@@ -17,7 +20,7 @@ My experience of over 20 years with IT.
 </p>
 </h5>
                 
-<!-- CONTATOS -->
+<!-- CONTACTS -->
 <p align='center'>
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
@@ -45,15 +48,7 @@ My experience of over 20 years with IT.
   </a>&nbsp;&nbsp;
 </p>
 
-### ⚡ GitHub Stats
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</p>
-
-<!--
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
--->
-
+<!-- MY WORKSPACE -->
 <h3 align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -62,8 +57,20 @@ My experience of over 20 years with IT.
   <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </h3>
 
-## 🚀💻 Technologies & Tools
+<!-- GITHUB STATS -->
+<h4 align='center'>
+  ⚡ GitHub Stats<br/><br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
+</h4>
 
+<!--
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+-->
+
+<!-- SKILLS & TOOLS -->
+<h4 align='center'>
+   🚀💻 Skill's & Tool's
+</h4>
 <details>
   <summary>📃 Resume</summary>
   
