@@ -25,7 +25,7 @@ My experience of over 20 years with IT.
   <a href="https://t.me/zapti">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href='mailto:andre.irff@gmail.com'>andre.irff@gmail.com</a>
+  <a href='mailto:andre.irff@gmail.com'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
