@@ -29,7 +29,6 @@ My experience of over 20 years with IT.
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
   <a href='mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github'></a>
-Clique aqui</a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM -->
