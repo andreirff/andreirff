@@ -70,7 +70,7 @@ My experience of over 20 years with IT.
 <!-- SKILLS & TOOLS -->
 <h4 align='center'>
    🚀💻 Skill's & Tool's
-</h4>
+
 <details>
   <summary>📃 Resume</summary>
   
@@ -96,6 +96,7 @@ My experience of over 20 years with IT.
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
 - [✏ Contribute](#-contribute-)
+</h4>
 
 ## 🤜🤛 Group [🔝](#initial)
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
