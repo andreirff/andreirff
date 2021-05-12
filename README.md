@@ -16,7 +16,7 @@ My experience of over 20 years with IT.
 <p>
 <br/>I learn a lot from the open source community and knowledge sharing.
 <br/></br>I currently work at <a href="https://www.igh.org.br/">IGH</a>.
-<br/>Founder of the customer-focused startup - ZapTI.
+<br/></br>Founder of the customer-focused startup - ZapTI.
 </p>
 </h5>
                 
