@@ -64,7 +64,7 @@ My experience of over 20 years with IT.
 </h4>
 
 <!-- SKILLS & TOOLS -->
- ## 🚀💻 Skill's & Tool's<br/><br/>
+ ## 🚀💻 Professional Experience - Skill's - Tool's<br/><br/>
   
 <details>
   <summary>📃 Resume</summary>
