@@ -46,7 +46,7 @@ My experience of over 20 years with IT.
 
 <!-- MY WORKSPACE -->
 <h3 align='center'>
-  💻 My workspace<br/><br/>
+  💻 My Workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%203TH-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -59,9 +59,7 @@ My experience of over 20 years with IT.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h3>
 
-<!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
--->
 
 <!-- SKILLS & TOOLS -->
 <h4 align='center'>
