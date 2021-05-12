@@ -41,3 +41,5 @@ Founder of the customer-focused startup - ZapTI.
 
 <details>
   <summary>📃 Resume</summary>
+  
+  ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
