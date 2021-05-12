@@ -15,7 +15,7 @@ My experience of over 20 years with IT.
 <br/>Lover of the STEAM methodology and the sound of an SG guitar.
 <p>
 <br/>I learn a lot from the open source community and knowledge sharing.
-<br/>I currently work at <a href="https://www.igh.org.br/">IGH</a>.
+<br/>I currently work at <a href="https://www.igh.org.br/" target="_blank">IGH</a>.
 <br/>Founder of the customer-focused startup - ZapTI.
 </p>
 </h5>
