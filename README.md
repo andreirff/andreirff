@@ -1,5 +1,5 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Carlos André
-Developer, IT manager, teacher and entrepreneur in <img src="https://acegif.com/wp-content/gif/brazilian-flag-15.gif" width="45px">.
+Developer, IT manager, teacher and entrepreneur in <img src="https://acegif.com/wp-content/gif/brazilian-flag-7.gif" width="45px">.
 
 My experience of over 20 years with IT has sparked possible ideas and projects through software development.
 
