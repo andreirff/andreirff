@@ -16,16 +16,18 @@ I learn a lot from the open source community and knowledge sharing.
 I currently work at IGH.
 Founder of the customer-focused startup - ZapTI.
 </p>
-
+<!-- CONTATOS -->
+## Menu
+- [📱 Contact](#-contact-)
 <p align='center'>
   <a href=""https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
+  <a href="https://t.me/zapti">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carlosandrelima/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/zapti">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
