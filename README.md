@@ -12,9 +12,9 @@ My experience of over 20 years with IT has sparked possible ideas and projects t
 <br>Lover of the STEAM methodology and the sound of an SG guitar.<br>
 </p>
 
-<p aligin=center'>
+<p align=center'>
 I learn a lot from the open source community and knowledge sharing.<br>
-I currently work at IGH. Founder of the customer-focused startup - ZapTI.<br>
+I currently work at IGH. Founder of the customer-focused startup - ZapTI.
 </p>
 
 <p align='center'>
