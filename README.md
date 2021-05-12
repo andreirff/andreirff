@@ -29,8 +29,9 @@ Founder of the customer-focused startup - ZapTI.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
+<!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+-->
 
 <p align='center'>
   💻 My workspace<br/><br/>
