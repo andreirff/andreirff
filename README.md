@@ -74,9 +74,9 @@ My experience of over 20 years with IT.
 <details>
   <summary>📃 Resume</summary>
   
-- [🤜🤛 Group](#-group-)
-- [👨 Social](#-social-)
-- [👩‍💻 Languages](#-languages-)
+[🤜🤛 Group](#-group-)
+[👨 Social](#-social-)
+[👩‍💻 Languages](#-languages-)
 - [👩‍💻 IDE](#-ide-)
 - [⚡ Database](#-database-)
 - [📱 Mobile Frameworks](#-mobile-frameworks-)
@@ -96,9 +96,11 @@ My experience of over 20 years with IT.
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
 - [✏ Contribute](#-contribute-)
-</h4>
+
 
 ## 🤜🤛 Group [🔝](#initial)
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+
+</h4>
