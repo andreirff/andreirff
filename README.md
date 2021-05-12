@@ -28,7 +28,7 @@ My experience of over 20 years with IT.
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
-  <a href='mailto:carlos.andrel@yahoo.com.br?subject=Oi%20Carlos&20via&20Github&body='>
+  <a href='mailto:carlos.andrel@yahoo.com.br'>
 Clique aqui</a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
