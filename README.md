@@ -19,7 +19,7 @@ Founder of the customer-focused startup - ZapTI.
                 
 <!-- CONTATOS -->
 <p align='center'>
-  <a href=""https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
+  <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://t.me/zapti">
@@ -30,6 +30,8 @@ Founder of the customer-focused startup - ZapTI.
   </a>&nbsp;&nbsp;
 </p>
 
+[![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github)](https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github)
+[![Linkedin Badge](https://img.shields.io/badge/-carlosandrelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandrelima/)](https://www.linkedin.com/in/carlosandrelima/)
 [![Linkedin Badge](https://img.shields.io/badge/-carlosandrelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandrelima/)](https://www.linkedin.com/in/carlosandrelima/)
 
 <p align='center'>
