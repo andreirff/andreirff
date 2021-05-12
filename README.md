@@ -32,6 +32,9 @@ My experience of over 20 years with IT has sparked possible ideas and projects t
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 -->
 
+<div><input type="text" value="input 3"></div>
+<div><input type="text" value="input 4"></div>
+
 <h4 align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
