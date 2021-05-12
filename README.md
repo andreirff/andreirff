@@ -1,4 +1,4 @@
-##### Profile
+###### Profile
 <h1 align='center'>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>I'm Carlos André Lima de Souza 👨‍💻</p>
@@ -25,8 +25,8 @@ My experience of over 20 years with IT.
   <a href="https://t.me/zapti">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlosandrelima/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href='mailto:andre.irff@gmail.com'>andre.irff@gmail.com</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 <!--
@@ -36,7 +36,7 @@ My experience of over 20 years with IT.
 <h4 align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%203770-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%203TH-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </h4>
