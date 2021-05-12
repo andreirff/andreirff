@@ -7,14 +7,14 @@ Developer, IT manager, teacher and entrepreneur in Minas Gerais, <img src="https
 </h4>
 <h5 align='center'>
 My experience of over 20 years with IT has sparked possible ideas and projects through software development.
-I also have a degree in Art Education with a degree in Music.
-Lover of the STEAM methodology and the sound of an SG guitar.
+<br/>I also have a degree in Art Education with a degree in Music.
+<br/>Lover of the STEAM methodology and the sound of an SG guitar.
 </h5>
 
 <p align=center'>
 I learn a lot from the open source community and knowledge sharing.
 <br/>I currently work at IGH.
-Founder of the customer-focused startup - ZapTI.
+<br/>Founder of the customer-focused startup - ZapTI.
 </p>
                 
 <!-- CONTATOS -->
