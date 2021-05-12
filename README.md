@@ -37,7 +37,7 @@ My experience of over 20 years with IT.
   </a>&nbsp;&nbsp;
   <!-- FACEBOOK -->
   <a href="https://bit.ly/zaptifacebook">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!-- GOOGLE MAPS -->
     <a href="https://bit.ly/zaptigps">
@@ -48,6 +48,8 @@ My experience of over 20 years with IT.
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=truetheme=dark&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreirff&hide=TeX&theme=dark&layout=compact)
 
 <!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
