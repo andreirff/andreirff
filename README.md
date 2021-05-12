@@ -19,6 +19,7 @@ My experience of over 20 years with IT.
 <br/></br>Founder of the customer-focused startup - ZapTI.
 </p>
 </h5>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
                 
 <!-- CONTACTS -->
 <p align='center'>
@@ -53,9 +54,9 @@ My experience of over 20 years with IT.
   <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </h4>
 
-<!-- GIF -->
+<!-- GIF
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>-->
 
 <!-- GITHUB STATS -->
 <h4 align='center'>
