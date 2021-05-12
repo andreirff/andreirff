@@ -12,7 +12,7 @@ My experience of over 20 years with IT.
 <br/>Lover of the STEAM methodology and the sound of an SG guitar.
 <p>
 <br/>I learn a lot from the open source community and knowledge sharing.
-<br/>I currently work at <a href='https://www.igh.org.br/' target='_blank'>IGH</a>.
+<br/>I currently work at <a href='https://www.igh.org.br/'>IGH</a>.
 <br/>Founder of the customer-focused startup - ZapTI.
 </p>
 </h5>
@@ -28,7 +28,8 @@ My experience of over 20 years with IT.
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
-  <a href='mailto:carlos.andrel@yahoo.com.br'>
+  <a href='mailto:carlos.andrel@yahoo.com.br?subject=Oi%20Carlos&20via&20Github&body=Olá Carlos, achei seu contato no Github'>
+Clique aqui</a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM -->
