@@ -19,14 +19,29 @@ My experience of over 20 years with IT.
                 
 <!-- CONTATOS -->
 <p align='center'>
+  <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
+  <!-- TELEGRAM -->
   <a href="https://t.me/zapti">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href='mailto:andre.irff@gmail.com'>
+  <!-- EMAIL -->
+  <a href='mailto:carlos.andrel@yahoo.com.br'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <!-- INSTAGRAM -->
+    <a href="https://bit.ly/zaptiinstagram">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <!-- FACEBOOK -->
+  <a href="https://bit.ly/zaptifacebook">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <!-- GOOGLE MAPS -->
+    <a href="https://bit.ly/zaptigps">
+    <img src="https://img.shields.io/badge/googlemaps-%23E4405F.svg?&style=for-the-badge&logo=googlemaps&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
