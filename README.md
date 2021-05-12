@@ -23,7 +23,7 @@ My experience of over 20 years with IT.
 <br/></br>I currently work at <a href="https://www.igh.org.br/">IGH</a>.
 <br/></br>Founder of the customer-focused startup - ZapTI. 
 </p>
-</h5>
+</h5></br>
 
 <!-- CONTACTS -->
 <h4 align='center'>📱 Contact</h4>
