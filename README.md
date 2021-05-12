@@ -59,11 +59,11 @@ My experience of over 20 years with IT.
 <h4 align='center'>
   ⚡ GitHub Stats<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</h4>
+</h4><br/><br/><br/><br/><br/><br/>
 
 <!-- SKILLS & TOOLS -->
 <h4 align='center'>
-   🚀💻 Skill's & Tool's<br/><br/><br/><br/>
+   🚀💻 Skill's & Tool's<br/><br/>
   
 <details>
   <summary>📃 Resume</summary>
