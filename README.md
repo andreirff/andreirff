@@ -11,11 +11,11 @@ My experience of over 20 years with IT has sparked possible ideas and projects t
 <br/>Lover of the STEAM methodology and the sound of an SG guitar.
 </h5>
 
-<p align=center'>
+<h5 align=center'>
 I learn a lot from the open source community and knowledge sharing.
 <br/>I currently work at IGH.
 <br/>Founder of the customer-focused startup - ZapTI.
-</p>
+</h5>
                 
 <!-- CONTATOS -->
 <p align='center'>
