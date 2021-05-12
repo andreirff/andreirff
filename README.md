@@ -14,8 +14,8 @@ My experience of over 20 years with IT has sparked possible ideas and projects t
 
 <p align=center'>
 I learn a lot from the open source community and knowledge sharing.
-I currently work at IGH.<br>
-Founder of the customer-focused startup - ZapTI.<br>
+I currently work at IGH.
+Founder of the customer-focused startup - ZapTI.
 </p>
 
 <p align='center'>
@@ -29,3 +29,4 @@ Founder of the customer-focused startup - ZapTI.<br>
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+
