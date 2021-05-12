@@ -25,11 +25,12 @@ Founder of the customer-focused startup - ZapTI.
   <a href="https://t.me/zapti">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  [![Linkedin Badge](https://img.shields.io/badge/-carlosandrelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandrelima/)](https://www.linkedin.com/in/carlosandrelima/)
   <a href="https://www.linkedin.com/in/carlosandrelima/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-carlosandrelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosandrelima/)](https://www.linkedin.com/in/carlosandrelima/)
 
 <p align='center'>
   💻 My workspace<br/><br/>
