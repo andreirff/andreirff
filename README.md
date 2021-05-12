@@ -58,18 +58,18 @@ My experience of over 20 years with IT.
 </h3>
 
 <!-- GITHUB STATS -->
-<h4 align='center'>
+<h3 align='center'>
   ⚡ GitHub Stats<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</h4>
+</h3>
 
 <!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 -->
 
 <!-- SKILLS & TOOLS -->
-<h4 align='center'>
-   🚀💻 Skill's & Tool's
+<h3 align='center'>
+   🚀💻 Skill's & Tool's<br/><br/>
 
 <details>
   <summary>📃 Resume</summary>
