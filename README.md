@@ -45,25 +45,25 @@ My experience of over 20 years with IT.
 </p>
 
 <!-- MY WORKSPACE -->
-<h3 align='center'>
+<h4 align='center'>
   💻 My Workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%203TH-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</h3>
+</h4>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- GITHUB STATS -->
-<h3 align='center'>
+<h4 align='center'>
   ⚡ GitHub Stats<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</h3>
+</h4>
 
 <!-- SKILLS & TOOLS -->
 <h4 align='center'>
-   🚀💻 Skill's & Tool's<br/><br/>
+   🚀💻 Skill's & Tool's<br/><br/><br/><br/>
   
 <details>
   <summary>📃 Resume</summary>
