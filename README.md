@@ -53,6 +53,7 @@ My experience of over 20 years with IT.
   <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </h4>
 
+<!-- GIF -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br/><br/><br/><br/><br/>
 
@@ -62,11 +63,13 @@ My experience of over 20 years with IT.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4>
 
+<h4 align='center'>
 <!-- SKILLS & TOOLS -->
  🚀💻 Skill's & Tool's<br/><br/>
   
 <details>
   <summary>📃 Resume</summary>
+  </h4>
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
@@ -284,4 +287,4 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" /> | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" /> | `https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white`
-<img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" /> | `https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white`
+<img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />
