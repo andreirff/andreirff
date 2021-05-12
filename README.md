@@ -63,13 +63,11 @@ My experience of over 20 years with IT.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4>
 
-<h4 align='center'>
 <!-- SKILLS & TOOLS -->
- 🚀💻 Skill's & Tool's<br/><br/>
+ ## 🚀💻 Skill's & Tool's<br/><br/>
   
 <details>
   <summary>📃 Resume</summary>
-  </h4>
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
