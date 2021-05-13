@@ -26,6 +26,9 @@
 - 👨‍💻 I currently work at <a href="https://www.igh.org.br/">IGH</a>.
 <br/></br>
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
+
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love taking photos and making videos
 </p>
 </h5></br>
 
