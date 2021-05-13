@@ -106,7 +106,6 @@ My experience of over 20 years with IT.
 📍 **Samp Minas Assistência Médica** - Belo Horizonte/MG, Brazil
 ✏ **Core Business: health plan**
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
@@ -119,6 +118,7 @@ My experience of over 20 years with IT.
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
@@ -154,7 +154,7 @@ My experience of over 20 years with IT.
 📍 **Banco do Brasil** - Brazil
 ✏ **Core Business: financial institution**
 
-<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_98-008080?style=for-the-badge&logo=windows-98&logoColor=white" />
 
 </details>
 
