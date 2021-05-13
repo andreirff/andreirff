@@ -89,6 +89,7 @@
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
+<img src="https://img.shields.io/badge/Google%20Firebase-ffca28?logo=firebase&logoColor=black"/>
 
 
 ## Experience
@@ -115,7 +116,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=Adobe%20XD&logoColor=white" />
