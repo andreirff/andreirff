@@ -82,11 +82,13 @@
 - 📖 **Flutter**\
 📆 2021 - ...\
 📍 **Udemy** - Education and learning marketplace
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
 
 - 📖 **Android development with Java**\
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+<img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 
 
 ## Experience
@@ -109,23 +111,27 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
+<img src="https://img.shields.io/badge/github-100000?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=Adobe%20XD&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=Adobe%20InDesign&logoColor=white" />
 <img src="https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white" />
 
 <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?logo=youtube-gaming&logoColor=white" />
 <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?logo=facebook-gaming&logoColor=white" />
-<img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white" />
+
 <img src="https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white" />
 <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" />
 <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?logo=nintendo-switch&logoColor=white" />
 <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
 <img src="https://img.shields.io/badge/Counter_Strike-000000?logo=counter-strike&logoColor=white" />
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white" />
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
 
 - 👨‍💻 **IT Coordinator**\
