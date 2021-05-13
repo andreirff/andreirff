@@ -66,21 +66,21 @@
 <details>
   <summary>📆👨‍💻💲 PROFESSIONAL EXPERIENCE</summary>
 
-## Education
+## Education [🔝](#initial)
 
-- 📖 **Information Technology Management**\[🔝](#initial)
+- 📖 **Information Technology Management**\
 📆 2012 - 2015\
 📍 **University Estácio de Sá** - Minas Gerais, Brazil
 
 
-- 📖 **Art Education with a degree in Music**\[🔝](#initial)
+- 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
 📍 **University of State of Minas Gerais** - Minas Gerais, Brazil
 
 
-## Courses in progress...
+## Courses in progress...[🔝](#initial)
 
-- 📖 **Android development with Java**\[🔝](#initial)
+- 📖 **Android development with Java**\
 📆 2021 - ...\
 📍 **Udemy** - Education and learning marketplace
 <img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
 
 
-- 📖 **Flutter development**\[🔝](#initial)
+- 📖 **Flutter development**\
 📆 2021 - ...\
 📍 **Udemy** - Education and learning marketplace
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
@@ -101,7 +101,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
 
 
-- 📖 **Android development with Java and Kotlin**\[🔝](#initial)
+- 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=Android-Studio&logoColor=ffffff" />
@@ -115,9 +115,9 @@
 <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 
 
-## Experience
+## Experience [🔝](#initial)
 
-- 👨‍💻 **IT Supervisor**\[🔝](#initial)
+- 👨‍💻 **IT Supervisor**\
 📆 2020 - Moment\
 📍 **IGH - Instituto de Gestão e Humanização** - Contagem/MG, Brazil
 ✏ **Core Business:** public health
@@ -135,7 +135,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 
 
-- 👨‍💻 **IT instructor**\[🔝](#initial)
+- 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
 📍 **Código Kid - Escola de Tecnologia** - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
@@ -169,7 +169,7 @@
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
 
 
-- 👨‍💻 **IT Coordinator**\[🔝](#initial)
+- 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 **Samp Minas Assistência Médica** - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
@@ -186,7 +186,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 
 
-- 👨‍💻 **Infrastructure Support Analyst**\[🔝](#initial)
+- 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 **ICL - Industrial Cachoeira LTDA** - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
@@ -199,7 +199,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
 
 
-- 👨‍💻 **Computing and Systems Technician**\[🔝](#initial)
+- 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
 📍 **MGS Administração SA** - Belo Horizonte/MG, Brazil
 📍 **Secretaria de Meio Ambiente do Estado de Minas Gerais** - Minas Gerais, Brazil
@@ -211,14 +211,14 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
 
 
-- 👨‍💻 **Arts Teacher**\[🔝](#initial)
+- 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 **Escola Estadual Dr Roberto de Aguiar** - Contagem/MG, Brazil
 📍 **Secretaria de Educação do Estado de Minas Gerais** - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
 
 
-- 👨‍💻 **Computing and Systems Technician**\[🔝](#initial)
+- 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
 📍 **Roch** - Belo Horizonte/MG, Brazil
 📍 **Admisa** - Belo Horizonte/MG, Brazil
@@ -229,7 +229,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
 
 
-- 👨‍💻 **Computing and Systems Assistant**\[🔝](#initial)
+- 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
 📍 **Roch** - Belo Horizonte/MG, Brazil
 📍 **Banco do Brasil** - Brazil
