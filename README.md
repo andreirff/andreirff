@@ -102,6 +102,10 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 
 
 - 👨‍💻 **IT instructor**\
@@ -145,6 +149,10 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 
 
 - 👨‍💻 **Infrastructure Support Analyst**\
