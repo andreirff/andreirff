@@ -116,8 +116,8 @@ My experience of over 20 years with IT.
 📍 **ICL - Industrial Cachoeira LTDA** - Betim/MG, Brazil
 ✏ **Core Business: textile industry**
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 
 - 👨‍💻 **Computing and Systems Technician**\
@@ -126,8 +126,8 @@ My experience of over 20 years with IT.
 📍 **Secretaria de Meio Ambiente do Estado de Minas Gerais** - Minas Gerais, Brazil
 ✏ **Core Business: environmental inspection**
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 
 
 - 👨‍💻 **Arts Teacher**\
@@ -145,7 +145,7 @@ My experience of over 20 years with IT.
 📍 **CEF - Caixa Econômica Federal** - Brazil
 ✏ **Core Business: financial institution**
 
-<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
 
 - 👨‍💻 **Computing and Systems Assistant**\
