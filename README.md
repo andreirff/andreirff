@@ -89,6 +89,7 @@
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=google%20analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Firebase-ffca28?logo=firebase&logoColor=black"/>
 
 
@@ -120,7 +121,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
 
@@ -146,6 +147,7 @@
 📍 **Samp Minas Assistência Médica** - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
@@ -153,6 +155,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 
 
 - 👨‍💻 **Infrastructure Support Analyst**\
@@ -160,6 +163,7 @@
 📍 **ICL - Industrial Cachoeira LTDA** - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
@@ -171,6 +175,7 @@
 📍 **Secretaria de Meio Ambiente do Estado de Minas Gerais** - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql" />
 
