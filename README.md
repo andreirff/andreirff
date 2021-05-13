@@ -28,8 +28,9 @@
 <br/></br>
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love taking photos and making videos
+- 🥅 💻 My experience of over 20 years with IT.
+</br>
+- ⚡ 📘 I also have a degree in Art Education with a degree in Music.
 </p>
 </h5></br>
 
