@@ -14,8 +14,7 @@
 <img src="https://acegif.com/wp-content/gif/brazilian-flag-28.gif" width="45px">
 </h3>
 
-<h5>
-  
+<h5>  
 - 💻 My experience of over 20 years with IT.
 - 📘 I also have a degree in Art Education with a degree in Music.
 - 📘 Lover of the STEAM methodology and the sound of an SG guitar.
@@ -23,6 +22,7 @@
 - 👨‍💻 I currently work at <a href="https://www.igh.org.br/">IGH</a>.
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 </h5>
+<<br/>
 
 <!-- CONTACTS -->
 <h4 align='center'>📱 Contact</h4>
