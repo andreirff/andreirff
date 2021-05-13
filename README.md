@@ -62,7 +62,7 @@
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-  <summary><b>📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
+  <summary><b>  📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
 
 ## EDUCATION [🔝](#initial)
 
@@ -239,7 +239,7 @@
 
 <!-- SKILLS & TOOLS -->
 <details>
-  <summary>  📃🚀💻 SKILL'S - TOOL'S</summary>
+  <summary><b>  📃🚀💻 SKILL'S - TOOL'S</b></summary>
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
@@ -404,7 +404,6 @@
 </details>
 
 <details>
-  <summary>  📦📊👨‍💻 PROJECT'S</summary>
-  
+  <summary><b>  📦📊👨‍💻 PROJECT'S</b></summary>
   
 </details>
