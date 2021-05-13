@@ -64,7 +64,7 @@
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-  <summary>📆👨‍💻💲 PROFESSIONAL EXPERIENCE</summary>
+  <summary>📆📝💲 PROFESSIONAL EXPERIENCE</summary>
 
 ## Education [🔝](#initial)
 
