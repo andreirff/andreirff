@@ -29,7 +29,6 @@
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 
 - 🥅 💻 My experience of over 20 years with IT.
-</br>
 - ⚡ 📘 I also have a degree in Art Education with a degree in Music.
 </p>
 </h5></br>
