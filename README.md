@@ -79,15 +79,30 @@
 
 ## Courses in progress...
 
+- 📖 **Android development with Java**\
+📆 2019 - 2020\
+📍 **Udemy** - Education and learning marketplace
+<img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+
 - 📖 **Flutter**\
 📆 2021 - ...\
 📍 **Udemy** - Education and learning marketplace
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
 
 - 📖 **Android development with Java**\
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=google%20analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Firebase-ffca28?logo=firebase&logoColor=black"/>
@@ -100,6 +115,7 @@
 📍 **IGH - Instituto de Gestão e Humanização** - Contagem/MG, Brazil
 ✏ **Core Business:** public health
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
@@ -116,14 +132,16 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-<img src="https://img.shields.io/badge/github-100000?logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=Adobe%20XD&logoColor=white" />
@@ -148,6 +166,7 @@
 ✏ **Core Business:** health plan
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
@@ -164,6 +183,7 @@
 ✏ **Core Business:** textile industry
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
@@ -176,8 +196,10 @@
 ✏ **Core Business:** environmental inspection
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
+
 
 
 - 👨‍💻 **Arts Teacher**\
