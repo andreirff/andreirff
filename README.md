@@ -229,7 +229,7 @@ My experience of over 20 years with IT.
 </details>
 
 <details>
-  <summary>📦👨‍💻 PROJECT'S</summary>
+  <summary>📦📊👨‍💻 PROJECT'S</summary>
   
   
 </details>
