@@ -23,7 +23,7 @@
 - 👨‍💻 I currently work at <a href="https://www.igh.org.br/">IGH</a>.
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 </h5>
-<<br/>
+<br/>
 
 <!-- CONTACTS -->
 <h4 align='center'>📱 Contact</h4>
