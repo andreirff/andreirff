@@ -71,7 +71,7 @@
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
 📍 **University Estácio de Sá** - Minas Gerais, Brazil
-
+<br/>
 - 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
 📍 **University of State of Minas Gerais** - Minas Gerais, Brazil
@@ -89,6 +89,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+<br/>
 
 - 📖 **Flutter development**\
 📆 2021 - ...\
@@ -97,6 +98,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
+<br/>
 
 - 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
@@ -110,7 +112,7 @@
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=google%20analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Firebase-ffca28?logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
-
+<br/>
 
 ## Experience
 
@@ -130,7 +132,7 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-
+<br/>
 
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
@@ -164,6 +166,7 @@
 <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
 <img src="https://img.shields.io/badge/Counter_Strike-000000?logo=counter-strike&logoColor=white" />
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
+<br/>
 
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
@@ -180,7 +183,7 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-
+<br/>
 
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
@@ -193,7 +196,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-
+<br/>
 
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
@@ -205,15 +208,14 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
-
-
+<br/>
 
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 **Escola Estadual Dr Roberto de Aguiar** - Contagem/MG, Brazil
 📍 **Secretaria de Educação do Estado de Minas Gerais** - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
-
+<br/>
 
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
@@ -224,7 +226,7 @@
 ✏ **Core Business:** financial institution
 <img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
-
+<br/>
 
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
