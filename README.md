@@ -80,28 +80,32 @@
 ## Courses in progress...
 
 - 📖 **Android development with Java**\
-📆 2019 - 2020\
+📆 2021 - ...\
 📍 **Udemy** - Education and learning marketplace
 <img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
 
-- 📖 **Flutter**\
+- 📖 **Flutter development**\
 📆 2021 - ...\
 📍 **Udemy** - Education and learning marketplace
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
 
-- 📖 **Android development with Java**\
+- 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=Android-Studio&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=google%20analytics&logoColor=white" />
@@ -137,6 +141,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 
