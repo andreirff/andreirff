@@ -22,9 +22,9 @@
 - 📘 Lover of the STEAM methodology and the sound of an SG guitar.
 <p>
 - 👨‍💻 I learn a lot from the open source community and knowledge sharing.
-- <br/></br>
+<br/></br>
 - 👨‍💻 I currently work at <a href="https://www.igh.org.br/">IGH</a>.
-- <br/></br>
+<br/></br>
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 </p>
 </h5></br>
