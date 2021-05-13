@@ -101,7 +101,6 @@
 - 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
 📍 **Udemy** - Education and learning marketplace
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=Android-Studio&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
