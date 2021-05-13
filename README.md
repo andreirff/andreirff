@@ -107,7 +107,22 @@ My experience of over 20 years with IT.
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=Adobe%20XD&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=Adobe%20InDesign&logoColor=white" />
+<img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?logo=youtube-gaming&logoColor=white" />
+<img src="https://img.shields.io/badge/Facebook_Gaming-005FED?logo=facebook-gaming&logoColor=white" />
+<img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white" />
+<img src="https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?logo=nintendo-switch&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Counter_Strike-000000?logo=counter-strike&logoColor=white" />
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white" />
+<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
 
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
