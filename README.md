@@ -26,7 +26,7 @@
 <br/>
 
 <!-- CONTACTS -->
-<h4 align='center'>📱 CONTACT</h4>
+<h4 align='center'>  📱 CONTACT</h4>
 <h4 align='center'>
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
@@ -47,8 +47,7 @@
 </p>
 
 <!-- MY WORKSPACE -->
-<h4 align='center'>
-  💻 MY WORKSPACE<br/><br/>
+<h4 align='center'>  💻 MY WORKSPACE<br/><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%203TH-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -57,14 +56,13 @@
 </h4>
 
 <!-- GITHUB STATS -->
-<h4 align='center'>
-  ⚡ GITHUB STATS<br/><br/>
+<h4 align='center'>  ⚡ GITHUB STATS<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4><br/><br/>
 
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
-  <summary>## 📆📝💲 PROFESSIONAL EXPERIENCE</summary>
+  <summary><b>📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
 
 ## EDUCATION [🔝](#initial)
 
@@ -241,7 +239,7 @@
 
 <!-- SKILLS & TOOLS -->
 <details>
-  <summary>## 📃🚀💻 SKILL'S - TOOL'S</summary>
+  <summary>  📃🚀💻 SKILL'S - TOOL'S</summary>
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
@@ -406,7 +404,7 @@
 </details>
 
 <details>
-  <summary>📦📊👨‍💻 PROJECT'S</summary>
+  <summary>  📦📊👨‍💻 PROJECT'S</summary>
   
   
 </details>
