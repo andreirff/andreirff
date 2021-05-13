@@ -20,9 +20,9 @@
 - 📘 I also have a degree in Art Education with a degree in Music.
 - 📘 Lover of the STEAM methodology and the sound of an SG guitar.
 - 👨‍💻 I learn a lot from the open source community and knowledge sharing.
-<br/>
+<br/><br/>
 - 👨‍💻 I currently work at <a href="https://www.igh.org.br/">IGH</a>.
-<br/>
+<br/><br/>
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 </h5></br>
 
