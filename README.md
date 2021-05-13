@@ -154,7 +154,7 @@ My experience of over 20 years with IT.
 📍 **Banco do Brasil** - Brazil
 ✏ **Core Business: financial institution**
 
-<img src="https://img.shields.io/badge/Windows_98-008080?style=for-the-badge&logo=windows-95&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_98-008080?logo=windows-95&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
 
 </details>
