@@ -62,56 +62,103 @@ My experience of over 20 years with IT.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4><br/><br/>
 
-<!-- SKILLS & TOOLS -->
+<!-- PROFESSIONAL EXPERIENCE -->
 <details>
   <summary>📆👨‍💻💲 PROFESSIONAL EXPERIENCE</summary>
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Information Technology Management**\
+📆 2012 - 2015\
+📍 **University Estácio de Sá** - Minas Gerais, Brazil
+
+- 📖 **Art Education with a degree in Music**\
+📆 2003 - 2006\
+📍 **University of State of Minas Gerais** - Minas Gerais, Brazil
+
+
+## Courses in progress...
+
+- 📖 **Flutter**\
+📆 2021 - ...\
+📍 **Udemy** - Education and learning marketplace
+
+- 📖 **Android development with Java**\
+📆 2019 - 2020\
+📍 **Udemy** - Education and learning marketplace
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+- 👨‍💻 **IT Supervisor**\
+📆 2020 - Moment\
+📍 **IGH - Instituto de Gestão e Humanização** - Contagem/MG, Brazil
+✏ **Core Business: public health**
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - Moment\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+- 👨‍💻 **IT instructor**\
+📆 2019 - 2020\
+📍 **Código Kid - Escola de Tecnologia** - Contagem/MG, Brazil
+✏ **Core Business: IT education**
 
-<img align="left" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+- 👨‍💻 **IT Coordinator**\
+📆 2012 - 2018\
+📍 **Samp Minas Assistência Médica** - Belo Horizonte/MG, Brazil
+✏ **Core Business: health plan**
 
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
-
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 
 
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
+- 👨‍💻 **Infrastructure Support Analyst**\
+📆 2010 - 2012\
+📍 **ICL - Industrial Cachoeira LTDA** - Betim/MG, Brazil
+✏ **Core Business: textile industry**
 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+- 👨‍💻 **Computing and Systems Technician**\
+📆 2007 - 2010\
+📍 **MGS Administração SA** - Belo Horizonte/MG, Brazil
+📍 **Secretaria de Meio Ambiente do Estado de Minas Gerais** - Minas Gerais, Brazil
+✏ **Core Business: environmental inspection**
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+
+- 👨‍💻 **Arts Teacher**\
+📆 2006 - 2006\
+📍 **Escola Estadual Dr Roberto de Aguiar** - Contagem/MG, Brazil
+📍 **Secretaria de Educação do Estado de Minas Gerais** - Minas Gerais, Brazil
+✏ **Core Business: Art education**
+
+
+- 👨‍💻 **Computing and Systems Technician**\
+📆 2001 - 2005\
+📍 **Roch** - Belo Horizonte/MG, Brazil
+📍 **Admisa** - Belo Horizonte/MG, Brazil
+📍 **Prodatec** - Belo Horizonte/MG, Brazil
+📍 **CEF - Caixa Econômica Federal** - Brazil
+✏ **Core Business: financial institution**
+
+<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
+
+
+- 👨‍💻 **Computing and Systems Assistant**\
+📆 1999 - 2001\
+📍 **Roch** - Belo Horizonte/MG, Brazil
+📍 **Banco do Brasil** - Brazil
+✏ **Core Business: financial institution**
+
+<img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" />
+
+</details>
+
+<!-- SKILLS & TOOLS -->
 <details>
   <summary>📃🚀💻 SKILL'S - TOOL'S</summary>
   
