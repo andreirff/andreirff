@@ -15,6 +15,7 @@
 </h3>
 
 <h5>
+- 
 - 💻 My experience of over 20 years with IT.
 </br>
 - 📘 I also have a degree in Art Education with a degree in Music.
