@@ -264,142 +264,141 @@
 - [🍔🍕 Food](#-food-)
 - [✏ Contribute](#-contribute-)
 
-## 🤜🤛 Group [🔝](#initial)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![MicrosoftTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://microsoft.com)
-[![Zomm](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://www.zoom.com)
+### 🤜🤛 Group [🔝](#initial)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com)
+[![MicrosoftTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?logo=microsoft-teams&logoColor=white)](https://microsoft.com)
+[![Zomm](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](https://www.zoom.com)
 
-## 👨👩 Social [🔝](#initial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/)
-[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+### 👨👩 Social [🔝](#initial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/)
+[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/)
+[![Github](https://img.shields.io/badge/Github-100000?ogo=github&logoColor=white)](https://github.com/)
 
-## 👩‍💻 Languages [🔝](#initial)
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+### 👩‍💻 Languages [🔝](#initial)
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://java.com/)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://php.net)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Github](https://img.shields.io/badge/github-100000?logo=github&logoColor=white)](https://github.com)
+[![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 
-## ⚡ Database [🔝](#initial)
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+### ⚡ Database [🔝](#initial)
+<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"/>
 
-## 📱 Mobile Frameworks [🔝](#initial)
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+### 📱 Mobile Frameworks [🔝](#initial)
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 
-## 🚀 Frameworks [🔝](#initial)
-<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+### 🚀 Frameworks [🔝](#initial)
+<img src="https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
 
-## ☁ Cloud [🔝](#initial)
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+### ☁ Cloud [🔝](#initial)
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white" />
 
-## 📊 Analytics [🔝](#initial)
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+### 📊 Analytics [🔝](#initial)
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=google%20analytics&logoColor=white" />
 
-## 💻 OS [🔝](#initial)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
+### 💻 OS [🔝](#initial)
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Tails-56347C?logo=tails&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
 
-## 👩‍💻 IDE [🔝](#initial)
-[![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+### 👩‍💻 IDE [🔝](#initial)
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?logo=visual%20studio&logoColor=white" />
 
-## 🛒 Store [🔝](#initial)
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+### 🛒 Store [🔝](#initial)
+<img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
+<img src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white" />
 
-## 👨‍💻 Office [🔝](#initial)
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+### 👨‍💻 Office [🔝](#initial)
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white" />
 
-## 💻 Workspace Spec [🔝](#initial)
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" />
+### 💻 Workspace Spec [🔝](#initial)
+<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Core_i5--10th-0071C5?logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?logo=apple&logoColor=white" />
 
-## 🖍📐 Design [🔝](#initial)
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
-<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+### 🖍📐 Design [🔝](#initial)
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=Adobe%20XD&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=Adobe%20InDesign&logoColor=white" />
+<img src="https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white" />
 
-## 🎮🕹 Games [🔝](#initial)
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" />
-<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
+### 🎮🕹 Games [🔝](#initial)
+<img src="https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?logo=nintendo-switch&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Counter_Strike-000000?logo=counter-strike&logoColor=white" />
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Stadia-CD2640?logo=stadia&logoColor=white" />
+<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
 
-## 📝 Blog [🔝](#initial)
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-<img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
+### 📝 Blog [🔝](#initial)
+<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+<img src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white" />
+<img src="https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white" />
 
-## 🎞 Streaming [🔝](#initial)
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+### 🎞 Streaming [🔝](#initial)
+<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
 
-## 💲 Cryptocurrency [🔝](#initial)
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+### 💲 Cryptocurrency [🔝](#initial)
+<img src="https://img.shields.io/badge/Bitcoin-000000?logo=bitcoin&logoColor=white" />
 
-## ❤ Funding [🔝](#initial)
-<img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" />
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+### ❤ Funding [🔝](#initial)
+<img src="https://img.shields.io/badge/picpay-21C25E?logo=picpay&logoColor=white" />
+<img src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" />
+<img src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" />
 
+### 🎶 Sound [🔝](#initial)
+<img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/SoundCloud-FF3300?logo=soundcloud&logoColor=white" />
 
-## 🎶 Sound [🔝](#initial)
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
-
-## 🍔🍕 Food [🔝](#initial)
-<img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />
-<img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" />
-<img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />
+### 🍔🍕 Food [🔝](#initial)
+<img src="https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white" />
+<img src="https://img.shields.io/badge/Aiqfome-7A1FA2?logo=aiqfome&logoColor=white" />
+<img src="https://img.shields.io/badge/iFood-EA1D2C?logo=ifood&logoColor=white" />
 
 </details>
 
