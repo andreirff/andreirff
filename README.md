@@ -182,9 +182,10 @@
 
 
 <!-- SKILLS & TOOLS -->
+###### Details
 <details>
   <summary><b>  📃🚀💻 SKILL'S - TOOL'S</b></summary>
-  ###### Details
+
   ## SKILLS & TOOLS [🔝](#Details)
   
 - [🤜🤛 Group](#-group-)
