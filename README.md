@@ -138,7 +138,7 @@
 📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
   
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>]
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
 📍 <a href="https://www.bb.com.br/">**Banco do Brasil**</a> - Brazil
