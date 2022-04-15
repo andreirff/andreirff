@@ -35,7 +35,7 @@
 
 <details>
   
-  <summary><b>  📆📝👨‍ EDUCATION AND COURSES</b></summary>
+  <summary><b>  📆📝🎓 EDUCATION AND COURSES</b></summary>
 
 ## EDUCATION 
 ##### to return click on the button [🔝](#initial)
@@ -331,8 +331,8 @@
 <h4 align='center'>  📱 MY CONTACT</h4>
 <h4 align='center'>
     <!-- URL -->
-  <a href="https://www.zapti.com.br">
-    <img src="https://img.shields.io/badge/WWW-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  <a href="https://www.linkedin.com/in/carlosandrelima/">
+    <img src="https://img.shields.io/badge/Carlos André Lima de Souza-blue?style=flat-square&logo=Linkedin&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
