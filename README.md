@@ -25,6 +25,7 @@
 - 👨‍💻 Founder of the customer-focused startup <a href="https://www.zapti.com.br/">ZapTI</a>. 
 </h5>
 <br/>
+<br/>
 
 <!-- CONTACTS -->
 <h4 align='center'>  📱 CONTACT</h4>
