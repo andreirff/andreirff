@@ -60,6 +60,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4><br/><br/>
 
+
+<!-- DESCRIPTION -->
+###### Descritption
+
 <!-- EDUCATION -->
 <details>
   <summary><b>  📆📝👨‍ EDUCATION AND COURSES</b></summary>
@@ -346,6 +350,6 @@
 <details>
   <summary><b>  📦📊👨‍💻 PROJECT'S</b></summary>
   
-  ## PROJECT'S [🔝](#initial)
+  ## PROJECT'S [🔝](#Descritption)
   
 </details>
