@@ -323,13 +323,19 @@
   ##### to return click on the button [🔝](#initial)
   
 </details>
-
+<br/>
+<br/>
+<br/>
 
 <!-- CONTACTS -->
-<h4 align='center'>  📱 CONTACT</h4>
+<h4 align='center'>  📱 MY CONTACT</h4>
 <h4 align='center'>
+    <!-- URL -->
+  <a href="https://www.zapti.com.br">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
   <!-- WHATSAPP -->
-  <!--a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github"-->
+  <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- TELEGRAM -->
@@ -337,7 +343,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
-  <a href='mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github'></a>
+  <a href="mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github"></a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM -->
