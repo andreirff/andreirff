@@ -62,7 +62,7 @@
 
 <!-- EDUCATION -->
 <details>
-  <summary><b>  📆📝👨‍ EDUCATION</b></summary>
+  <summary><b>  📆📝👨‍ EDUCATION AND COURSES</b></summary>
 
 ## EDUCATION [🔝](#initial)
 
@@ -147,7 +147,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
   
   
-
+  
 - 👨‍💻 **IT Supervisor**\
 📆 2020 - 2021\
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
@@ -165,8 +165,8 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-
-
+  
+  
   
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
@@ -201,8 +201,8 @@
 <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
 <img src="https://img.shields.io/badge/Counter_Strike-000000?logo=counter-strike&logoColor=white" />
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
-
-
+  
+  
   
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
@@ -220,8 +220,8 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-
-
+  
+  
   
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
@@ -235,8 +235,8 @@
 <img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-
-
+  
+  
   
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
@@ -249,16 +249,16 @@
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
-
-
+  
+  
   
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 **Escola Estadual Dr Roberto de Aguiar** - Contagem/MG, Brazil
 📍 **Secretaria de Educação do Estado de Minas Gerais** - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
-
-
+  
+  
   
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
@@ -267,10 +267,10 @@
 ✏ **Core Business:** financial institution
   
 <img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
-
-  
-
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" /
+     
+     
+     
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
 📍 **Roch** - Belo Horizonte/MG, Brazil
