@@ -28,42 +28,6 @@
 <br/>
 <br/>
 
-<!-- CONTACTS -->
-<h4 align='center'>  📱 CONTACT</h4>
-<h4 align='center'>
-  <!-- WHATSAPP -->
-  <!--a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github"-->
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;
-  <!-- TELEGRAM -->
-  <a href="https://t.me/zapti">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <!-- EMAIL -->
-  <a href='mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github'></a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <!-- INSTAGRAM -->
-    <a href="https://bit.ly/zaptiinstagram">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-
-<!-- MY WORKSPACE -->
-<h4 align='center'>  💻 MY WORKSPACE<br/><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%203TH-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</h4>
-
-<!-- GITHUB STATS -->
-<h4 align='center'>  ⚡ GITHUB STATS<br/><br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</h4><br/><br/>
-
-
 <!-- DESCRIPTION -->
 ###### Descritption
 
@@ -359,3 +323,40 @@
   ##### to return click on the button [🔝](#initial)
   
 </details>
+
+
+<!-- CONTACTS -->
+<h4 align='center'>  📱 CONTACT</h4>
+<h4 align='center'>
+  <!-- WHATSAPP -->
+  <!--a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github"-->
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;
+  <!-- TELEGRAM -->
+  <a href="https://t.me/zapti">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <!-- EMAIL -->
+  <a href='mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github'></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <!-- INSTAGRAM -->
+    <a href="https://bit.ly/zaptiinstagram">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+<!-- MY WORKSPACE -->
+<h4 align='center'>  💻 MY WORKSPACE<br/><br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%203TH-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%20750ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</h4>
+
+<!-- GITHUB STATS -->
+<h4 align='center'>  ⚡ GITHUB STATS<br/><br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
+</h4><br/><br/>
+
