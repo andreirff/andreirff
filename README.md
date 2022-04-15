@@ -330,7 +330,7 @@
 <!-- CONTACTS -->
 <h4 align='center'>  📱 MY CONTACT</h4>
 <h4 align='center'>
-    <!-- URL -->
+    <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/carlosandrelima/">
     <img src="https://img.shields.io/badge/Carlos André Lima de Souza-blue?&style=for-the-badge&logo=Linkedin&logoColor=white" />    
   </a>&nbsp;&nbsp;
@@ -344,7 +344,7 @@
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
   <a href="mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github"></a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/carlos.andrel@yahoo.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM -->
     <a href="https://bit.ly/zaptiinstagram">
