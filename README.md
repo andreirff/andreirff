@@ -40,14 +40,17 @@
 ## EDUCATION 
 ##### to return click on the button [🔝](#initial)
 
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://www.pucminas.br/Style%20Library/STATIC/img/brasao-peq.png"/>](https://www.pucminas.br/)
  - 📖 **Specialization in Data Governance and Cybersecurity**\
 📆 2022 - 2023\
 📍 <a href="https://www.pucminas.br/">**Pontifical Catholic University - Puc Minas**</a> - Minas Gerais, Brazil 
   
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://estacio.br/assets/imgs/header/logo-black.svg"/>](https://estacio.br/)
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
 📍 <a href="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
 
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://en.wikipedia.org/wiki/File:Uemg.png"/>](https://www.uemg.br/)
 - 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
   📍 <a href="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
