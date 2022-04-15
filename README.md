@@ -68,7 +68,7 @@
 
  - 📖 **Specialization in Data Governance and Cybersecurity**\
 📆 2022 - 2023\
-📍 **Pontifica Universidade Catolica - Pucminas** - Minas Gerais, Brazil 
+📍 **Pontifical Catholic University - Puc Minas** - Minas Gerais, Brazil 
   
 
 - 📖 **Information Technology Management**\
