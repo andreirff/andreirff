@@ -356,7 +356,7 @@
 <h4 align='center'>
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/carlosandrelima/">
-    <img src="https://img.shields.io/badge/Carlos André Lima de Souza-blue?&style=for-the-badge&logo=Linkedin&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Linkedin-blue?&style=for-the-badge&logo=Linkedin&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- GOOGLE DEVELOPER -->
   <a href="https://g.dev/zapti/">
@@ -364,7 +364,7 @@
   </a>&nbsp;&nbsp;
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- TELEGRAM -->
   <a href="https://t.me/zapti">
@@ -372,11 +372,11 @@
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
   <a href="mailto:zapti.contato@gmail.com?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github">
-    <img src="https://img.shields.io/badge/zapti.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM -->
     <a href="https://bit.ly/zaptiinstagram">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
