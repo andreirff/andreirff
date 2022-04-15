@@ -131,6 +131,7 @@
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** public health
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
@@ -147,8 +148,9 @@
 
 - 👨‍💻 **IT Supervisor**\
 📆 2020 - 2021\
-📍 **IGH - Instituto de Gestão e Humanização** - Contagem/MG, Brazil
+📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** public health
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
@@ -165,8 +167,9 @@
 
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
-📍 **Código Kid - Escola de Tecnologia** - Contagem/MG, Brazil
+📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Tails-56347C?logo=tails&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
@@ -199,8 +202,9 @@
 
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
-📍 **Samp Minas Assistência Médica** - Belo Horizonte/MG, Brazil
+📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
@@ -216,8 +220,9 @@
 
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
-📍 **ICL - Industrial Cachoeira LTDA** - Betim/MG, Brazil
+📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
@@ -232,6 +237,7 @@
 📍 **MGS Administração SA** - Belo Horizonte/MG, Brazil
 📍 **Secretaria de Meio Ambiente do Estado de Minas Gerais** - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
@@ -253,6 +259,7 @@
 📍 **Prodatec** - Belo Horizonte/MG, Brazil
 📍 **CEF - Caixa Econômica Federal** - Brazil
 ✏ **Core Business:** financial institution
+  
 <img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
 
@@ -262,10 +269,12 @@
 📍 **Roch** - Belo Horizonte/MG, Brazil
 📍 **Banco do Brasil** - Brazil
 ✏ **Core Business:** financial institution
+  
 <img src="https://img.shields.io/badge/Windows_98-008080?logo=windows-95&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
 
 </details>
+
 
 <!-- SKILLS & TOOLS -->
 <details>
