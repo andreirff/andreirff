@@ -360,7 +360,7 @@
   </a>&nbsp;&nbsp;
   <!-- GOOGLE DEVELOPER -->
   <a href="https://g.dev/zapti/">
-    <img src="https://img.shields.io/badge/Carlos André Lima de Souza-black?&style=for-the-badge&logo=Google&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Google Developer-black?&style=for-the-badge&logo=Google&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
