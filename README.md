@@ -343,7 +343,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <!-- EMAIL -->
-  <a href="mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github"></a>
+  <a href="mailto:carlos.andrel@yahoo.com.br?subject=Ol%C3%A1%20Carlos%20via%20Github&body=Olá Carlos tudo bem? via Github">
     <img src="https://img.shields.io/badge/carlos.andrel@yahoo.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM -->
