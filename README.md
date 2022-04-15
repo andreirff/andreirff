@@ -35,7 +35,7 @@
 
 <details>
   
-  <summary><b>  📆📝🎓 EDUCATION AND COURSES</b></summary>
+  <summary><b>  🏢📝🎓 EDUCATION AND COURSES</b></summary>
 
 ## EDUCATION 
 ##### to return click on the button [🔝](#initial)
@@ -365,4 +365,6 @@
 <h4 align='center'>  ⚡ GITHUB STATS<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4><br/><br/>
+
+[![andreirff](https://github-readme-stats.vercel.app/api/top-langs/?username=andreirff&hide=html&layout=compact&theme=dark)](https://github.com/andreirff/)
 
