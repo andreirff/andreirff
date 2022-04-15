@@ -67,11 +67,14 @@
 <!-- DESCRIPTION -->
 ###### Descritption
 
-<!-- EDUCATION -->
+<!-- EDUCATION AND COURSES-->
+
 <details>
+  
   <summary><b>  📆📝👨‍ EDUCATION AND COURSES</b></summary>
 
-## EDUCATION [🔝](#initial)
+## EDUCATION 
+##### to return click on the button [🔝](#initial)
 
  - 📖 **Specialization in Data Governance and Cybersecurity**\
 📆 2022 - 2023\
@@ -86,11 +89,12 @@
   📍 <a herf="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
 
 
-## COURSES IN PROGRESS... [🔝](#initial)
+## COURSES IN PROGRESS... 
+##### to return click on the button [🔝](#initial)
 
 - 📖 **Android development with Java**\
 📆 2021 - ...\
-📍 **Udemy** - Education and learning marketplace
+  📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
 <img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
@@ -101,7 +105,7 @@
 
 - 📖 **Flutter development**\
 📆 2021 - ...\
-📍 **Udemy** - Education and learning marketplace
+📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
@@ -109,7 +113,7 @@
 
 - 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
-📍 **Udemy** - Education and learning marketplace
+📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=Android-Studio&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" />
@@ -125,9 +129,10 @@
   
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
+  
   <summary><b>  📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
   
-## to return click on the button [🔝](#initial)
+##### to return click on the button [🔝](#initial)
 
 - 👨‍💻 **IT Infrastructure Supervisorr**\
 📆 2021 - Moment\
@@ -179,9 +184,10 @@
 
 <!-- SKILLS & TOOLS -->
 <details>
+  
   <summary><b>📃🚀💻 SKILL'S - TOOL'S</b></summary>
 
-  ## to return click on the button [🔝](#initial)
+    ##### to return click on the button [🔝](#initial)
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
@@ -344,8 +350,11 @@
 
 </details>
 
+
+<!-- PROJECT'S -->
 <details>
-  <summary><b>  📦📊👨‍💻 PROJECT'S</b></summary>
+  
+  <summary><b>  📦📊👨‍💻 PROJECT'S</b></summary> 
   
   ##### to return click on the button [🔝](#initial)
   
