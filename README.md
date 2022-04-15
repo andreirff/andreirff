@@ -180,6 +180,8 @@
 <details>
   <summary><b>  📃🚀💻 SKILL'S - TOOL'S</b></summary>
   
+  ## SKILLS & TOOLS [🔝](#initial)
+  
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
 - [👩‍💻 Languages](#-languages-)
