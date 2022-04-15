@@ -20,7 +20,7 @@
 - 📘 I also have a degree in Art Education with a degree in Music.
 - 📘 Lover of the STEAM methodology and the sound of an SG guitar.
 - 👨‍💻 I learn a lot from the open source community and knowledge sharing.
-- 👨‍💻 I currently work at <a href="https://www.igh.org.br/">IGH</a>.
+- 👨‍💻 I currently work at <a href="https://www.plcadvogados.com.br/">PL&C</a>.
 - 👨‍💻 Founder of the customer-focused startup - ZapTI. 
 </h5>
 <br/>
@@ -123,6 +123,7 @@
 - 👨‍💻 **IT Infrastructure Supervisorr**\
 📆 2021 - Moment\
 📍 **PL&C - Portela Lima Lobato Colen Advogados** - Belo Horizonte/MG, Brazil
+<a href="https://www.plcadvogados.com.br/">www.plcadvogados.com.br</a>
 ✏ **Core Business:** public health
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
