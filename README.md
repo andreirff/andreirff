@@ -45,7 +45,7 @@
 📆 2022 - 2023\
 📍 <a href="https://www.pucminas.br/">**Pontifical Catholic University - Puc Minas**</a> - Minas Gerais, Brazil 
   
-[<img align="left" height="30px" width="70px" alt="Warpnet" src="https://estacio.br/assets/imgs/header/logo-black.svg"/>](https://estacio.br/)
+[<img align="left" height="50px" width="70px" alt="Warpnet" src="https://estacio.br/assets/imgs/header/logo-black.svg"/>](https://estacio.br/)
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
 📍 <a href="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
