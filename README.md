@@ -257,7 +257,6 @@
 ✏ **Core Business:** Art education
   
   
-  
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
 📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
