@@ -16,6 +16,7 @@
 
 <!-- ABSTRATC -->
 <h5>
+  
 - 💻 I have over 20 years of IT experience.
 - 📘 I also have a degree in Art Education with a degree in Music.
 - 📘 Lover of the <a href="https://en.wikipedia.org/wiki/STEAM_fields/">S.T.E.A.M Methodology</a> and the sound of an <a href="https://www.gibson.com/en-US/Guitar/USAPAH661/SG-Special/Vintage-Cherry/">SG Guitar</a>.
