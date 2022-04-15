@@ -240,7 +240,6 @@
   
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
-📍 <a href="https://www.mgs.srv.br/">**MGS Administração SA**</a> - Belo Horizonte/MG, Brazil
 📍 <a href="http://www.meioambiente.mg.gov.br/">**Secretaria de Meio Ambiente do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
   
@@ -254,27 +253,24 @@
   
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
-📍 **Escola Estadual Dr Roberto de Aguiar** - Contagem/MG, Brazil
-📍 **Secretaria de Educação do Estado de Minas Gerais** - Minas Gerais, Brazil
+📍 <a href="https://www2.educacao.mg.gov.br/">**Secretaria de Educação do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
   
   
   
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
-📍 **Roch** - **Admisa** - **Prodatec** - Belo Horizonte/MG, Brazil
 📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
   
 <img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" /
-     
-     
-     
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
+  
+  
+  
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
-📍 **Roch** - Belo Horizonte/MG, Brazil
-  📍 <a href="https://www.bb.com.br/pbb/pagina-inicial#/">**Banco do Brasil**</a> - Brazil
+📍 <a href="https://www.bb.com.br/pbb/pagina-inicial#/">**Banco do Brasil**</a> - Brazil
 ✏ **Core Business:** financial institution
   
 <img src="https://img.shields.io/badge/Windows_98-008080?logo=windows-95&logoColor=white" />
