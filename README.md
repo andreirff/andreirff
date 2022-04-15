@@ -98,6 +98,7 @@
   
 ##### to return click on the button [🔝](#initial)
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 - 👨‍💻 **IT Infrastructure Supervisor**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
