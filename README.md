@@ -185,7 +185,7 @@
 <details>
   <summary><b>📃🚀💻 SKILL'S - TOOL'S</b></summary>
 
-  ## SKILLS & TOOLS [🔝](#Details)
+  ## SKILLS & TOOLS [🔝](#initial)
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
@@ -341,7 +341,7 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" />
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?logo=soundcloud&logoColor=white" />
 
-### 🍔🍕 Food [🔝](#SKILLS & TOOLS)
+### 🍔🍕 Food [🔝](#initial)
 <img src="https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white" />
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?logo=aiqfome&logoColor=white" />
 <img src="https://img.shields.io/badge/iFood-EA1D2C?logo=ifood&logoColor=white" />
