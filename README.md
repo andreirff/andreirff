@@ -98,13 +98,13 @@
   
 ##### to return click on the button [🔝](#initial)
 
-[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www.plcadvogados.com.br/wp-content/themes/plc/images/logomarca.png"/>](https://www.plcadvogados.com.br/)
+[<img align="left" height="40px" width="80px" alt="Warpnet" src="https://www.plcadvogados.com.br/wp-content/themes/plc/images/logomarca.png"/>](https://www.plcadvogados.com.br/)
 - 👨‍💻 **IT Infrastructure Supervisor**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** advocacy
 
-[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www.igh.org.br/wp-content/uploads/2020/12/logo_verde-escura.png"/>](https://www.igh.org.br/)
+[<img align="left" height="40px" width="80px" alt="Warpnet" src="https://www.igh.org.br/wp-content/uploads/2020/12/logo_verde-escura.png"/>](https://www.igh.org.br/)
 - 👨‍💻 **IT Supervisor**\
 📆 2020 - 2021\
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
