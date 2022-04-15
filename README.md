@@ -98,19 +98,19 @@
   
 ##### to return click on the button [🔝](#initial)
 
-  
+[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www.plcadvogados.com.br/wp-content/themes/plc/images/logomarca.png"/>](https://www.plcadvogados.com.br/)
 - 👨‍💻 **IT Infrastructure Supervisor**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** advocacy
 
-  
+[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www.igh.org.br/wp-content/uploads/2020/12/logo_verde-escura.png"/>](https://www.igh.org.br/)
 - 👨‍💻 **IT Supervisor**\
 📆 2020 - 2021\
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** public health
   
-[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D111220237068271&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcodigokidbangu%2Fposts&tbnid=khNWU2je6v5HYM&vet=12ahUKEwi0oafUuZb3AhWHCLkGHWgNBsgQMygDegUIARChAQ..i&docid=g_H27MrvJbCbQM&w=960&h=960&itg=1&q=logo%20codigo%20kid&ved=2ahUKEwi0oafUuZb3AhWHCLkGHWgNBsgQMygDegUIARChAQ"/>](https://www.codigokid.com.br/)
+[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://site.codigokid.com.br/escola-imagem/escola-de-programacao-e-robotica-em-cascavel_182"/>](https://www.codigokid.com.br/)
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
