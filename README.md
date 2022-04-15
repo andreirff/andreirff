@@ -110,19 +110,19 @@
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** public health
   
-  
+[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D111220237068271&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcodigokidbangu%2Fposts&tbnid=khNWU2je6v5HYM&vet=12ahUKEwi0oafUuZb3AhWHCLkGHWgNBsgQMygDegUIARChAQ..i&docid=g_H27MrvJbCbQM&w=960&h=960&itg=1&q=logo%20codigo%20kid&ved=2ahUKEwi0oafUuZb3AhWHCLkGHWgNBsgQMygDegUIARChAQ"/>](https://www.codigokid.com.br/)
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
   
-[<img align="left" height="60px" width="80px" alt="Warpnet" src="https://www2.samp.com.br/operador/img/logo.png"/>](https://www2.samp.com.br/)
+[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www2.samp.com.br/operador/img/logo.png"/>](https://www2.samp.com.br/)
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
   
-[<img align="left" height="65px" width="80px" alt="Warpnet" src="https://www.dtajeans.com.br/painel/Figuras/Imagens/298-761.webp"/>](https://www.dtajeans.com.br/)
+[<img align="left" height="60px" width="80px" alt="Warpnet" src="https://www.dtajeans.com.br/painel/Figuras/Imagens/298-761.webp"/>](https://www.dtajeans.com.br/)
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
