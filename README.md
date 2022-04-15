@@ -25,8 +25,6 @@
 - 👨‍💻 Founder of the customer-focused startup <a href="https://www.zapti.com.br/">ZapTI</a>. 
 </h5>
 <br/>
-<br/>
-<br/>
 
 <!-- DESCRIPTION -->
 ###### Descritption
@@ -55,8 +53,6 @@
 📆 2003 - 2006\
   📍 <a href="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
   
-<br/>
-<br/>
 <br/>
 
 ## COURSES IN PROGRESS... 
@@ -98,9 +94,7 @@
 <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 
 </details>
- 
-<br/>
-<br/>
+
 <br/>
   
 <!-- PROFESSIONAL EXPERIENCE -->
@@ -166,8 +160,6 @@
   
 </details>
 
-<br/>
-<br/>
 <br/>
 
 <!-- SKILLS & TOOLS -->
@@ -339,8 +331,6 @@
 </details>
 
 <br/>
-<br/>
-<br/>
 
 <!-- PROJECT'S -->
 <details>
@@ -359,8 +349,6 @@
   
 </details>
 
-<br/>
-<br/>
 <br/>
 
 <!-- CONTACTS -->
@@ -403,7 +391,8 @@
   
   [![andreirff](https://github-readme-stats.vercel.app/api/top-langs/?username=andreirff&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/andreirff/)
   
-</h4><br/><br/>
+</h4>
+<br/>
 
 
 
