@@ -66,6 +66,11 @@
 
 ## EDUCATION [🔝](#initial)
 
+ - 📖 **Specialization in Data Governance and Cybersecurity**\
+📆 2022 - 2023\
+📍 **Pontifica Universidade Catolica - Pucminas** - Minas Gerais, Brazil 
+  
+
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
 📍 **University Estácio de Sá** - Minas Gerais, Brazil
@@ -115,8 +120,26 @@
 
 ## EXPERIENCE [🔝](#initial)
 
+- 👨‍💻 **IT Infrastructure Supervisorr**\
+📆 2021 - Moment\
+📍 **PL&C - Portela Lima Lobato Colen Advogados** - Belo Horizonte/MG, Brazil
+✏ **Core Business:** public health
+<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
+  
+
 - 👨‍💻 **IT Supervisor**\
-📆 2020 - Moment\
+📆 2020 - 2021\
 📍 **IGH - Instituto de Gestão e Humanização** - Contagem/MG, Brazil
 ✏ **Core Business:** public health
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
