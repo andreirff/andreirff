@@ -98,7 +98,7 @@
   
 ##### to return click on the button [🔝](#initial)
 
-[<img align="left" height="40px" width="80px" alt="Warpnet" src="https://www.plcadvogados.com.br/wp-content/themes/plc/images/logomarca.png"/>](https://www.plcadvogados.com.br/)
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://www.plcadvogados.com.br/wp-content/themes/plc/images/logomarca.png"/>](https://www.plcadvogados.com.br/)
 - 👨‍💻 **IT Infrastructure Supervisor**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
