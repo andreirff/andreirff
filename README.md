@@ -104,7 +104,7 @@
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** advocacy
 
-[<img align="left" height="40px" width="80px" alt="Warpnet" src="https://www.igh.org.br/wp-content/uploads/2020/12/logo_verde-escura.png"/>](https://www.igh.org.br/)
+[<img align="left" height="50px" width="90px" alt="Warpnet" src="https://www.igh.org.br/wp-content/uploads/2020/12/logo_verde-escura.png"/>](https://www.igh.org.br/)
 - 👨‍💻 **IT Supervisor**\
 📆 2020 - 2021\
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
