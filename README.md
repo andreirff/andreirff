@@ -123,11 +123,13 @@
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
   
+[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/277796281_354745996697852_5029129293417205164_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=waBfwaZJTNUAX9GKCyu&_nc_ht=scontent.fplu29-1.fna&oh=00_AT8ecPUwfhCS8EnyMQOcJa230a9QDqWW4l9IjKiCVVPDFA&oe=625F5886"/>](http://www.meioambiente.mg.gov.br/)
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
 📍 <a href="http://www.meioambiente.mg.gov.br/">**Secretaria de Meio Ambiente do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
-  
+
+[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/267449249_6751151591623332_4270150213949425849_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=T-d4vMoK9_cAX_yoHTJ&_nc_ht=scontent.fplu29-1.fna&oh=00_AT_sMg8MeiCFLKDrCf_FbGFRWYcRZtoa6OJX3HhHIkRvlQ&oe=625EC09B"/>](https://www2.educacao.mg.gov.br/)
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 <a href="https://www2.educacao.mg.gov.br/">**Secretaria de Educação do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
