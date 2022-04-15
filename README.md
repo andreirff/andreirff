@@ -117,6 +117,8 @@
 <img src="https://img.shields.io/badge/Google%20Firebase-ffca28?logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 
+</details>
+  
   
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
