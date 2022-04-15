@@ -334,6 +334,12 @@
   
   ##### to return click on the button [🔝](#initial)
   
+  [<img align="left" height="80px" width="80px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEOsIC1zeoF6g/company-logo_200_200/0/1614915648669?e=2147483647&v=beta&t=O4zaD7syn4RUwgdvQQtA9iZtxn_qjJEXTroY0nxREpw"/>](https://www.zapti.com.br/)
+- 👨‍💻 **Computing and Systems Assistant**\
+📆 1999 - 2001\
+📍 <a href="https://www.zapti.com.br/">**ZapTI**</a> - Brazil
+✏ **Core Business:** IT services
+  
 </details>
 <br/>
 <br/>
