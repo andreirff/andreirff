@@ -60,9 +60,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </h4><br/><br/>
 
-<!-- PROFESSIONAL EXPERIENCE -->
+<!-- EDUCATION -->
 <details>
-  <summary><b>  📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
+  <summary><b>  📆📝👨‍ EDUCATION</b></summary>
 
 ## EDUCATION [🔝](#initial)
 
@@ -127,6 +127,7 @@
   
 ## EXPERIENCE [🔝](#initial)
 
+  
 - 👨‍💻 **IT Infrastructure Supervisorr**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
@@ -144,6 +145,7 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
+  
   
 
 - 👨‍💻 **IT Supervisor**\
@@ -165,6 +167,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 
 
+  
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
@@ -200,6 +203,7 @@
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
 
 
+  
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
@@ -218,6 +222,7 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
 
 
+  
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
@@ -232,10 +237,11 @@
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
 
 
+  
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
-📍 **MGS Administração SA** - Belo Horizonte/MG, Brazil
-📍 **Secretaria de Meio Ambiente do Estado de Minas Gerais** - Minas Gerais, Brazil
+📍 <a href="https://www.mgs.srv.br/">**MGS Administração SA**</a> - Belo Horizonte/MG, Brazil
+📍 <a href="http://www.meioambiente.mg.gov.br/">**Secretaria de Meio Ambiente do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
   
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
@@ -245,6 +251,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
 
 
+  
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 **Escola Estadual Dr Roberto de Aguiar** - Contagem/MG, Brazil
@@ -252,22 +259,22 @@
 ✏ **Core Business:** Art education
 
 
+  
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
-📍 **Roch** - Belo Horizonte/MG, Brazil
-📍 **Admisa** - Belo Horizonte/MG, Brazil
-📍 **Prodatec** - Belo Horizonte/MG, Brazil
-📍 **CEF - Caixa Econômica Federal** - Brazil
+📍 **Roch** - **Admisa** - **Prodatec** - Belo Horizonte/MG, Brazil
+📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
   
 <img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
 
+  
 
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
 📍 **Roch** - Belo Horizonte/MG, Brazil
-📍 **Banco do Brasil** - Brazil
+  📍 <a href="https://www.bb.com.br/pbb/pagina-inicial#/">**Banco do Brasil**</a> - Brazil
 ✏ **Core Business:** financial institution
   
 <img src="https://img.shields.io/badge/Windows_98-008080?logo=windows-95&logoColor=white" />
