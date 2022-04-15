@@ -117,7 +117,12 @@
 <img src="https://img.shields.io/badge/Google%20Firebase-ffca28?logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 
-
+  
+<!-- PROFESSIONAL EXPERIENCE -->
+<details>
+  <summary><b>  📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
+  
+  
 ## EXPERIENCE [🔝](#initial)
 
 - 👨‍💻 **IT Infrastructure Supervisorr**\
