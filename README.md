@@ -113,35 +113,37 @@
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
   
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://www2.samp.com.br/"/>](https://www2.samp.com.br/)
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
   
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://www.dtajeans.com.br/painel/Figuras/Imagens/298-761.webp"/>](https://www.dtajeans.com.br/)
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
   
-[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/277796281_354745996697852_5029129293417205164_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=waBfwaZJTNUAX9GKCyu&_nc_ht=scontent.fplu29-1.fna&oh=00_AT8ecPUwfhCS8EnyMQOcJa230a9QDqWW4l9IjKiCVVPDFA&oe=625F5886"/>](http://www.meioambiente.mg.gov.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/277796281_354745996697852_5029129293417205164_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=waBfwaZJTNUAX9GKCyu&_nc_ht=scontent.fplu29-1.fna&oh=00_AT8ecPUwfhCS8EnyMQOcJa230a9QDqWW4l9IjKiCVVPDFA&oe=625F5886"/>](http://www.meioambiente.mg.gov.br/)
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
 📍 <a href="http://www.meioambiente.mg.gov.br/">**Secretaria de Meio Ambiente do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
 
-[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/267449249_6751151591623332_4270150213949425849_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=T-d4vMoK9_cAX_yoHTJ&_nc_ht=scontent.fplu29-1.fna&oh=00_AT_sMg8MeiCFLKDrCf_FbGFRWYcRZtoa6OJX3HhHIkRvlQ&oe=625EC09B"/>](https://www2.educacao.mg.gov.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/267449249_6751151591623332_4270150213949425849_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=T-d4vMoK9_cAX_yoHTJ&_nc_ht=scontent.fplu29-1.fna&oh=00_AT_sMg8MeiCFLKDrCf_FbGFRWYcRZtoa6OJX3HhHIkRvlQ&oe=625EC09B"/>](https://www2.educacao.mg.gov.br/)
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 <a href="https://www2.educacao.mg.gov.br/">**Secretaria de Educação do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
   
-[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://logospng.org/download/caixa-economica-federal/logo-caixa-economica-federal-1024.png"/>](https://www.caixa.gov.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://logospng.org/download/caixa-economica-federal/logo-caixa-economica-federal-1024.png"/>](https://www.caixa.gov.br/)
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
 📍 <a href="https://www.caixa.gov.br/">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
   
-[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>](https://www.bb.com.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>](https://www.bb.com.br/)
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
 📍 <a href="https://www.bb.com.br/">**Banco do Brasil**</a> - Brazil
