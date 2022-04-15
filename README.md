@@ -122,8 +122,7 @@
 
 - 👨‍💻 **IT Infrastructure Supervisorr**\
 📆 2021 - Moment\
-📍 **PL&C - Portela Lima Lobato Colen Advogados** - Belo Horizonte/MG, Brazil
-<a href="https://www.plcadvogados.com.br/">www.plcadvogados.com.br</a>
+📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** public health
 <img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
