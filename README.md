@@ -133,9 +133,10 @@
 📍 <a href="https://www2.educacao.mg.gov.br/">**Secretaria de Educação do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
   
+[<img align="left" height="60px" width="60px" alt="Warpnet" src="https://logospng.org/download/caixa-economica-federal/logo-caixa-economica-federal-1024.png"/>](https://www.caixa.gov.br/)
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
-📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
+📍 <a href="https://www.caixa.gov.br/">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
   
 [<img align="left" height="60px" width="60px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>](https://www.bb.com.br/)
