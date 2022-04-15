@@ -82,11 +82,11 @@
   
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
-📍 <a herf="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
+📍 <a href="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
 
 - 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
-  📍 <a herf="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
+  📍 <a href="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
 
 
 ## COURSES IN PROGRESS... 
