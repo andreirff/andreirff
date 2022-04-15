@@ -364,7 +364,10 @@
 <!-- GITHUB STATS -->
 <h4 align='center'>  ⚡ GITHUB STATS<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=andreirff&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
+  
+  [![andreirff](https://github-readme-stats.vercel.app/api/top-langs/?username=andreirff&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/andreirff/)
+  
 </h4><br/><br/>
 
-[![andreirff](https://github-readme-stats.vercel.app/api/top-langs/?username=andreirff&hide=html&layout=compact&theme=dark)](https://github.com/andreirff/)
+
 
