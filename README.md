@@ -343,10 +343,7 @@
 📍 <a href="https://www.zapti.com.br/">**ZapTI**</a> - Brazil
 ✏ **Core Business:** Consulting, Projects, IT Services and Digital Marketing
   
-- [📱 Mobile Frameworks](#-mobile-frameworks-)
-  
-  ### 📱 Mobile Frameworks 
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+- [📱 Mobile Project`s](#-mobile-)
   
 </details>
 <br/>
