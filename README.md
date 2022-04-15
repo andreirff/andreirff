@@ -50,7 +50,7 @@
 📆 2012 - 2015\
 📍 <a href="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
 
-[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://en.wikipedia.org/wiki/File:Uemg.png"/>](https://www.uemg.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Uemg.png"/>](https://www.uemg.br/)
 - 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
   📍 <a href="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
