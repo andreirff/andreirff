@@ -132,149 +132,47 @@
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** public health
-  
-<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-  
-  
-  
+
 - 👨‍💻 **IT Supervisor**\
 📆 2020 - 2021\
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** public health
-  
-<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-  
-  
   
 - 👨‍💻 **IT instructor**\
 📆 2019 - 2020\
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
   
-<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Tails-56347C?logo=tails&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=Adobe%20XD&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?logo=Adobe%20InDesign&logoColor=white" />
-<img src="https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white" />
-<img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?logo=youtube-gaming&logoColor=white" />
-<img src="https://img.shields.io/badge/Facebook_Gaming-005FED?logo=facebook-gaming&logoColor=white" />
-<img src="https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white" />
-<img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" />
-<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?logo=nintendo-switch&logoColor=white" />
-<img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/Counter_Strike-000000?logo=counter-strike&logoColor=white" />
-<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?logo=nintendo-3ds&logoColor=white" />
-  
-  
-  
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
-  
-<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=Power%20BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FElogo=PowerShell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-231F20?logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud" />
-  
-  
   
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
   
-<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Server-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white" />
-  
-  
-  
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
 📍 <a href="http://www.meioambiente.mg.gov.br/">**Secretaria de Meio Ambiente do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
-  
-<img src="https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white" />
-  
-  
   
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 <a href="https://www2.educacao.mg.gov.br/">**Secretaria de Educação do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** Art education
   
-  
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2001 - 2005\
 📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
-  
-<img src="https://img.shields.io/badge/Windows_XP-003399?logo=windows-xp&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
-  
-  
   
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
 📍 <a href="https://www.bb.com.br/pbb/pagina-inicial#/">**Banco do Brasil**</a> - Brazil
 ✏ **Core Business:** financial institution
   
-<img src="https://img.shields.io/badge/Windows_98-008080?logo=windows-95&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=windows-95&logoColor=white" />
-
 </details>
 
 
