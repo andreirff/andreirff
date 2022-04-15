@@ -116,13 +116,13 @@
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
   
-[<img align="left" height="70px" width="80px" alt="Warpnet" src="https://www2.samp.com.br/operador/img/logo.png"/>](https://www2.samp.com.br/)
+[<img align="left" height="60px" width="80px" alt="Warpnet" src="https://www2.samp.com.br/operador/img/logo.png"/>](https://www2.samp.com.br/)
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
   
-[<img align="left" height="70px" width="80px" alt="Warpnet" src="https://www.dtajeans.com.br/painel/Figuras/Imagens/298-761.webp"/>](https://www.dtajeans.com.br/)
+[<img align="left" height="65px" width="80px" alt="Warpnet" src="https://www.dtajeans.com.br/painel/Figuras/Imagens/298-761.webp"/>](https://www.dtajeans.com.br/)
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
