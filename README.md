@@ -26,12 +26,13 @@
 </h5>
 <br/>
 <br/>
+<br/>
 
 <!-- CONTACTS -->
 <h4 align='center'>  📱 CONTACT</h4>
 <h4 align='center'>
   <!-- WHATSAPP -->
-  <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
+  <!--a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github"-->
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- TELEGRAM -->
@@ -70,24 +71,22 @@
 <details>
   <summary><b>  📆📝👨‍ EDUCATION AND COURSES</b></summary>
 
-## EDUCATION [🔝](#initial)
+## EDUCATION [🔝](#Descritption)
 
  - 📖 **Specialization in Data Governance and Cybersecurity**\
 📆 2022 - 2023\
-📍 **Pontifical Catholic University - Puc Minas** - Minas Gerais, Brazil 
+📍 <a href="https://www.pucminas.br/">**Pontifical Catholic University - Puc Minas**</a> - Minas Gerais, Brazil 
   
-
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
-📍 **University Estácio de Sá** - Minas Gerais, Brazil
-
+📍 <a herf="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
 
 - 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
-📍 **University of State of Minas Gerais** - Minas Gerais, Brazil
+  📍 <a herf="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
 
 
-## COURSES IN PROGRESS... [🔝](#initial)
+## COURSES IN PROGRESS... [🔝](#Descritption)
 
 - 📖 **Android development with Java**\
 📆 2021 - ...\
@@ -131,7 +130,7 @@
   <summary><b>  📆📝💲 PROFESSIONAL EXPERIENCE</b></summary>
   
   
-## EXPERIENCE [🔝](#initial)
+## EXPERIENCE [🔝](#Descritption)
 
   
 - 👨‍💻 **IT Infrastructure Supervisorr**\
@@ -186,7 +185,7 @@
 <details>
   <summary><b>  📃🚀💻 SKILL'S - TOOL'S</b></summary>
   
-  ## SKILLS & TOOLS [🔝](#initial)
+  ## SKILLS & TOOLS [🔝](#Descritption)
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
