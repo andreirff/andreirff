@@ -54,7 +54,10 @@
 - 📖 **Art Education with a degree in Music**\
 📆 2003 - 2006\
   📍 <a href="https://www.uemg.br/">**University of State of Minas Gerais**</a> - Minas Gerais, Brazil
-
+  
+<br/>
+<br/>
+<br/>
 
 ## COURSES IN PROGRESS... 
 ##### to return click on the button [🔝](#initial)
@@ -95,7 +98,10 @@
 <img src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white" />
 
 </details>
-  
+ 
+<br/>
+<br/>
+<br/>
   
 <!-- PROFESSIONAL EXPERIENCE -->
 <details>
@@ -160,6 +166,9 @@
   
 </details>
 
+<br/>
+<br/>
+<br/>
 
 <!-- SKILLS & TOOLS -->
 <details>
@@ -329,6 +338,9 @@
 
 </details>
 
+<br/>
+<br/>
+<br/>
 
 <!-- PROJECT'S -->
 <details>
@@ -346,6 +358,7 @@
 - [📱 Mobile Project`s](#-mobile-)
   
 </details>
+
 <br/>
 <br/>
 <br/>
