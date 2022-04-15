@@ -332,7 +332,7 @@
 <h4 align='center'>
     <!-- URL -->
   <a href="https://www.linkedin.com/in/carlosandrelima/">
-    <img src="https://img.shields.io/badge/Carlos André Lima de Souza-blue?style=flat-square&logo=Linkedin&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Carlos André Lima de Souza-blue?&style=for-the-badgelogo=Linkedin&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <!-- WHATSAPP -->
   <a href="https://api.whatsapp.com/send?phone=5531994039469&text=Ol%C3%A1%20Carlos%20via%20Github">
