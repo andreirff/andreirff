@@ -98,7 +98,7 @@
   
 ##### to return click on the button [🔝](#initial)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>](https://www.spacex.com/)
 - 👨‍💻 **IT Infrastructure Supervisor**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
@@ -139,9 +139,10 @@
 📍 <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">**CEF - Caixa Econômica Federal**</a> - Brazil
 ✏ **Core Business:** financial institution
   
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-4096.png"/>](https://www.bb.com.br/)
 - 👨‍💻 **Computing and Systems Assistant**\
 📆 1999 - 2001\
-📍 <a href="https://www.bb.com.br/pbb/pagina-inicial#/">**Banco do Brasil**</a> - Brazil
+📍 <a href="https://www.bb.com.br/">**Banco do Brasil**</a> - Brazil
 ✏ **Core Business:** financial institution
   
 </details>
