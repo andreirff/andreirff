@@ -58,7 +58,8 @@
 
 ## COURSES IN PROGRESS... 
 ##### to return click on the button [🔝](#initial)
-
+  
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
 - 📖 **Android development with Java**\
 📆 2021 - ...\
   📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
@@ -70,6 +71,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
 
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
 - 📖 **Flutter development**\
 📆 2021 - ...\
 📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
@@ -78,6 +80,7 @@
 <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
 
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
 - 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
 📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
