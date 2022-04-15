@@ -134,7 +134,7 @@
   
 ##### to return click on the button [🔝](#initial)
 
-- 👨‍💻 **IT Infrastructure Supervisorr**\
+- 👨‍💻 **IT Infrastructure Supervisor**\
 📆 2021 - Moment\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** advocacy
@@ -187,7 +187,7 @@
   
   <summary><b>📃🚀💻 SKILL'S - TOOL'S</b></summary>
 
-    ##### to return click on the button [🔝](#initial)
+  ##### to return click on the button [🔝](#initial)
   
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
