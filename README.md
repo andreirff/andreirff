@@ -17,12 +17,19 @@
 <!-- ABSTRATC -->
 <h5>
 - 💻 I have over 25 years of IT experience.
+<h5>
 - 💻 I have a degree in IT Management and a Postgraduate degree in Data Governance and Cybersecurity.
+<h5>
 - 📘 I also have a degree in Art Education with a degree in Music.
+<h5>
 - 📘 Lover of the <a href="https://en.wikipedia.org/wiki/STEAM_fields/">S.T.E.A.M Methodology</a> and the sound of an <a href="https://www.gibson.com/en-US/Guitar/USAPAH661/SG-Special/Vintage-Cherry/">SG Guitar</a>.
+<h5>
 - 👨‍💻 I learn from the open source community and knowledge sharing.
+<h5>
 - 👨‍💻 I currently work at <a href="https://www.knoxbebedouros.com.br">Knox Bebedouros.</a>.
+<h5>
 - 👨‍💻 Founder of the startup <a href="https://www.zapti.com.br/">ZapTI</a>.
+<h5>
 - 👨‍💻 Founder of the startup <a href="https://www.myhelpbr.com.br/">My Help do Brazil</a>. 
 </h5>
 <br/>
