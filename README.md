@@ -16,13 +16,14 @@
 
 <!-- ABSTRATC -->
 <h5>
-  
-- 💻 I have over 20 years of IT experience.
+- 💻 I have over 25 years of IT experience.
+- 💻 I have a degree in IT Management and a Postgraduate degree in Data Governance and Cybersecurity.
 - 📘 I also have a degree in Art Education with a degree in Music.
 - 📘 Lover of the <a href="https://en.wikipedia.org/wiki/STEAM_fields/">S.T.E.A.M Methodology</a> and the sound of an <a href="https://www.gibson.com/en-US/Guitar/USAPAH661/SG-Special/Vintage-Cherry/">SG Guitar</a>.
 - 👨‍💻 I learn from the open source community and knowledge sharing.
-- 👨‍💻 I currently work at <a href="https://www.fiducial.com.br">Fiducial LTDA.</a>.
-- 👨‍💻 Founder of the customer-focused startup <a href="https://www.zapti.com.br/">ZapTI</a>. 
+- 👨‍💻 I currently work at <a href="https://www.knoxbebedouros.com.br">Knox Bebedouros.</a>.
+- 👨‍💻 Founder of the startup <a href="https://www.zapti.com.br/">ZapTI</a>.
+- 👨‍💻 Founder of the startup <a href="https://www.myhelpbr.com.br/">My Help do Brazil</a>. 
 </h5>
 <br/>
 
@@ -43,7 +44,7 @@
 📆 2022 - 2023\
 📍 <a href="https://www.pucminas.br/">**Pontifical Catholic University - Puc Minas**</a> - Minas Gerais, Brazil 
   
-[<img align="left" height="50px" width="70px" alt="Warpnet" src="https://estacio.br/assets/imgs/header/logo-black.svg"/>](https://estacio.br/)
+[<img align="left" height="50px" width="70px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2014/12/estacio-logo-0.png"/>](https://estacio.br/)
 - 📖 **Information Technology Management**\
 📆 2012 - 2015\
 📍 <a href="https://estacio.br/">**University Estácio de Sá**</a> - Minas Gerais, Brazil
@@ -58,9 +59,19 @@
 ## COURSES IN PROGRESS... 
 ##### to return click on the button [🔝](#initial)
   
-[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
+
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo-0-1.png"/>](https://www.udemy.com/)
+- 📖 **Flutter development**\
+📆 2022 - 2024\
+📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
+
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo-0-1.png"/>](https://www.udemy.com/)
 - 📖 **Android development with Java**\
-📆 2021 - ...\
+📆 2021 - 2023\
   📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
 <img src="https://img.shields.io/badge/Github-100000?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -70,16 +81,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
 
-[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
-- 📖 **Flutter development**\
-📆 2021 - ...\
-📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" />
-
-[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"/>](https://www.udemy.com/)
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo-0-1.png"/>](https://www.udemy.com/)
 - 📖 **Android development with Java and Kotlin**\
 📆 2019 - 2020\
 📍 <a href="https://www.udemy.com/">**Udemy**</a> - Education and learning marketplace
@@ -104,43 +106,55 @@
   
 ##### to return click on the button [🔝](#initial)
 
-[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://www.plcadvogados.com.br/wp-content/themes/plc/images/logomarca.png"/>](https://www.plcadvogados.com.br/)
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://knoxbebedouros.com.br/wp-content/uploads/2019/06/LOGO-KNOX-BEBEDOUROS-1.png"/>](https://www.knoxbebedouros.com.br/)
+- 👨‍💻 **IT Manager**\
+📆 2024 - Moment\
+📍 <a href="https://www.knoxbebedouros.com.br/">**Knox Bebedouros LTDA**</a> - Betim/MG, Brazil
+✏ **Core Business:** industry
+
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://ncdn0.infojobs.com.br/logos/Company_Evaluation/47807.jpg"/>](https://www.fiducial.com.br/)
+- 👨‍💻 **IT Manager**\
+📆 2023 - 2024\
+📍 <a href="https://www.fiducial.com.br/">**Fiducial - Serviços Financeiros LTDA**</a> - Belo Horizonte/MG, Brazil
+✏ **Core Business:** financial
+
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://plcadvogados.com.br/wp-content/uploads/2021/02/logo_PLC.png"/>](https://www.plcadvogados.com.br/)
 - 👨‍💻 **IT Infrastructure Supervisor**\
-📆 2021 - Moment\
+📆 2022 - 2023\
 📍 <a href="https://www.plcadvogados.com.br/">**PL&C - Portela Lima Lobato Colen Advogados**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** advocacy
 
 [<img align="left" height="50px" width="80px" alt="Warpnet" src="https://www.igh.org.br/wp-content/uploads/2020/12/logo_verde-escura.png"/>](https://www.igh.org.br/)
 - 👨‍💻 **IT Supervisor**\
-📆 2020 - 2021\
+📆 2021 - 2022\
 📍 <a href="https://www.igh.org.br/">**IGH - Instituto de Gestão e Humanização**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** public health
   
 [<img align="left" height="55px" width="80px" alt="Warpnet" src="https://site.codigokid.com.br/escola-imagem/escola-de-programacao-e-robotica-em-cascavel_182"/>](https://www.codigokid.com.br/)
 - 👨‍💻 **IT instructor**\
-📆 2019 - 2020\
+📆 2020 - 2021\
 📍 <a href="https://www.codigokid.com.br/">**Código Kid - Escola de Tecnologia**</a> - Contagem/MG, Brazil
 ✏ **Core Business:** IT education
   
-[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://www2.samp.com.br/operador/img/logo.png"/>](https://www2.samp.com.br/)
+[<img align="left" height="55px" width="80px" alt="Warpnet" src="https://fortbel.com.br/wp-content/uploads/2015/11/SAMP.jpg"/>](https://www2.samp.com.br/)
 - 👨‍💻 **IT Coordinator**\
 📆 2012 - 2018\
 📍 <a href="https://www2.samp.com.br/">**Samp Minas Assistência Médica**</a> - Belo Horizonte/MG, Brazil
 ✏ **Core Business:** health plan
   
-[<img align="left" height="60px" width="80px" alt="Warpnet" src="https://www.dtajeans.com.br/painel/Figuras/Imagens/298-761.webp"/>](https://www.dtajeans.com.br/)
+[<img align="left" height="60px" width="80px" alt="Warpnet" src="https://www.costureirasbh.com.br/wp-content/uploads/2015/09/image002.jpg"/>](https://www.dtajeans.com.br/)
 - 👨‍💻 **Infrastructure Support Analyst**\
 📆 2010 - 2012\
 📍 <a href="https://www.dtajeans.com.br/">**ICL - Industrial Cachoeira LTDA (DTA Jeans)**</a> - Betim/MG, Brazil
 ✏ **Core Business:** textile industry
   
-[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/277796281_354745996697852_5029129293417205164_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=waBfwaZJTNUAX9GKCyu&_nc_ht=scontent.fplu29-1.fna&oh=00_AT8ecPUwfhCS8EnyMQOcJa230a9QDqWW4l9IjKiCVVPDFA&oe=625F5886"/>](http://www.meioambiente.mg.gov.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://static.wixstatic.com/media/8307fe_1961d2cd7911448bb6e7299c434f4144~mv2.jpg/v1/fill/w_350,h_258,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8307fe_1961d2cd7911448bb6e7299c434f4144~mv2.jpg"/>](http://www.meioambiente.mg.gov.br/)
 - 👨‍💻 **Computing and Systems Technician**\
 📆 2007 - 2010\
 📍 <a href="http://www.meioambiente.mg.gov.br/">**Secretaria de Meio Ambiente do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
 ✏ **Core Business:** environmental inspection
 
-[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://scontent.fplu29-1.fna.fbcdn.net/v/t39.30808-6/267449249_6751151591623332_4270150213949425849_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=T-d4vMoK9_cAX_yoHTJ&_nc_ht=scontent.fplu29-1.fna&oh=00_AT_sMg8MeiCFLKDrCf_FbGFRWYcRZtoa6OJX3HhHIkRvlQ&oe=625EC09B"/>](https://www2.educacao.mg.gov.br/)
+[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://jornaldacidadegv.com.br/wp-content/uploads/2023/12/see-mg-secretaria-de-estado-de-educacao-de-minas-gerais.png"/>](https://www2.educacao.mg.gov.br/)
 - 👨‍💻 **Arts Teacher**\
 📆 2006 - 2006\
 📍 <a href="https://www2.educacao.mg.gov.br/">**Secretaria de Educação do Estado de Minas Gerais**</a> - Minas Gerais, Brazil
@@ -341,7 +355,7 @@
   
   [<img align="left" height="80px" width="80px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEOsIC1zeoF6g/company-logo_200_200/0/1614915648669?e=2147483647&v=beta&t=O4zaD7syn4RUwgdvQQtA9iZtxn_qjJEXTroY0nxREpw"/>](https://www.zapti.com.br/)
 - 👨‍💻 **Computing and Systems Assistant**\
-📆 1999 - 2001\
+📆 2020 - Moment\
 📍 <a href="https://www.zapti.com.br/">**ZapTI**</a> - Brazil
 ✏ **Core Business:** Consulting, Projects, IT Services and Digital Marketing
   
@@ -397,6 +411,3 @@
   
 </h4>
 <br/>
-
-
-
