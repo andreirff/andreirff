@@ -16,7 +16,7 @@
 
 <!-- ABSTRATC -->
 <h5>
-- 💻 I have over 25 years of IT experience.
+- 💻 I have over 30 years of IT experience.
 <h5>
 - 💻 I have a degree in IT Management and a Postgraduate degree in Data Governance and Cybersecurity.
 <h5>
