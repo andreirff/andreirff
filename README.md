@@ -30,7 +30,7 @@
 <h5>
 - 👨‍💻 Founder of the startup <a href="https://www.zapti.com.br/">ZapTI</a>.
 <h5>
-- 👨‍💻 Founder of the startup <a href="https://www.myhelpbr.com.br/">My Help do Brazil</a>. 
+- 👨‍💻 Co-Founder of the startup <a href="https://myhelpdobrasil.com.br)/">My Help do Brazil</a>. 
 </h5>
 <br/>
 
