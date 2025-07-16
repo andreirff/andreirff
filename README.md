@@ -113,10 +113,10 @@
   
 ##### to return click on the button [🔝](#initial)
 
-[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://knoxbebedouros.com.br/wp-content/uploads/2019/06/LOGO-KNOX-BEBEDOUROS-1.png"/>](https://www.knoxbebedouros.com.br/)
+[<img align="left" height="50px" width="80px" alt="Warpnet" src="https://knoxrefrigeradores.com.br/wp-content/uploads/2025/05/LOGO-KNOX-BEBEDOUROS-2.png"/>](https://knoxrefrigeradores.com.br/)
 - 👨‍💻 **IT Manager**\
 📆 2024 - Moment\
-📍 <a href="https://www.knoxbebedouros.com.br/">**Knox Bebedouros LTDA**</a> - Betim/MG, Brazil
+📍 <a href="https://www.knoxrefrigeradores.com.br/">**Knox Bebedouros LTDA**</a> - Betim/MG, Brazil
 ✏ **Core Business:** industry
 
 [<img align="left" height="50px" width="80px" alt="Warpnet" src="https://ncdn0.infojobs.com.br/logos/Company_Evaluation/47807.jpg"/>](https://www.fiducial.com.br/)
