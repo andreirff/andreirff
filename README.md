@@ -46,7 +46,7 @@
 ## EDUCATION 
 ##### to return click on the button [🔝](#initial)
 
-[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.pucminas.br/Style%20Library/STATIC/img/brasao-peq.png"/>](https://www.pucminas.br/)
+[<img align="left" height="70px" width="70px" alt="Warpnet" src="https://www.pucminas.br/Style%20Library/STATIC/img/2025/brasao-pucminas-2025-versao-positiva.png"/>](https://www.pucminas.br/)
  - 📖 **Specialization in Data Governance and Cybersecurity**\
 📆 2022 - 2023\
 📍 <a href="https://www.pucminas.br/">**Pontifical Catholic University - Puc Minas**</a> - Minas Gerais, Brazil 
